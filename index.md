@@ -14,7 +14,7 @@
 </table>
 
 ## 最新消息
-- 备考GRE当中
+- 备战GRE中
 
 ## 学习和研究方向
 1. Android原生
@@ -38,3 +38,6 @@
 2. 《基于stm32的联网报警系统和后台智能算法设计》于省级学术期刊，第一作者
 3.  中国计算机学会会员
 4.  阿里云栖社区认证专家
+
+## 个人博客
+- <a href="https://www.cnblogs.com/geeksongs/tag">https://www.cnblogs.com/geeksongs/tag</a>
