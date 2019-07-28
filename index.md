@@ -1,50 +1,39 @@
 <table border="0">
   <tr>
     <td width="75%">
-      <h1>宋谨岑</h1>
+      <h1>Geek Song</h1>
       <p><b>本科</b></p>
       <p><b>悉尼大学计算机系(语言班)</b></p>
       <p><b>邮箱：freemusic@foxmail.com</b></p>
       <p><b>地址：重庆/悉尼</b></p>
     </td>
     <td width="25%">
-      <img src="/66666.jpg" width="100%">      % 插入证件照代码
+      <img src="/66666.jpg" width="100%">     
     </td>
   </tr>
 </table>
 
-You can use the [editor on GitHub](https://github.com/Geeksongs/geeksongs.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+##最新消息
+-备考GRE当中
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+##学习和研究方向
+1.Android原生
+2.图像处理
 
-### Markdown
+##个人经历
+###1.2014——2017：就读于西南大学附中
+-物理奥林匹克竞赛年级第二名（2/400），并同时获得竞赛国奖
+-西安电子科技大学自主招生全国第一名（1/3300）
+-物理科技论文竞赛重庆市三等奖（中国物理学会颁发）
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+###2.2017—2018
+-成为重庆炫发科技有限公司合伙人
+-创立Geeksongs工作室
 
-```markdown
-Syntax highlighted code block
+###3.2019
+-被悉尼大学语言班和计算机系录取
 
-# Header 1
-## Header 2
-### Header 3
+##个人荣誉
+1.《人体生命体征检测软件》国家软件著作权，第一作者
+2.《基于stm32的联网报警系统和后台智能算法设计》于省级学术期刊，第一作者
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Geeksongs/geeksongs.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
