@@ -3,7 +3,7 @@
     <td width="75%">
       <h1>Geek Song</h1>
       <p><b>高中毕业</b></p>
-      <p><b>即将就读于悉尼大学英语系的语言班</b></p>
+      <p><b>就读于悉尼大学英语系</b></p>
       <p><b>邮箱：freemusic@foxmail.com</b></p>
       <p><b>地址：重庆</b></p>
     </td>
