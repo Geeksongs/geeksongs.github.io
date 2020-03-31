@@ -24,8 +24,8 @@
 -  Contract author of Machinery Industry Press
 
 ## Skills
-- Programing lauguage:Python, C++, Java
-- Android Development
+- Programing lauguage: Python, C++, Java
+- Android Development(Github 23 stars + )
 - Data Structure(None)
 - Pytorch(None)
 
