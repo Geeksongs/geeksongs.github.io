@@ -23,6 +23,12 @@
 3.  Certified Expert of Alibaba Cloud Community
 4.  Contract author of Machinery Industry Press
 
+## Skills
+- Programing lauguage:Python, C++, Java
+- Android Development
+- Data Structure(None)
+- Pytorch(None)
+
 ## Chinese Tech Blog
 - <a href="https://www.cnblogs.com/geeksongs/tag">https://www.cnblogs.com/geeksongs/</a>
  .This blog is over 400,000 times views, followed by 47 people.
