@@ -18,10 +18,10 @@
 - Major in Data Science and Mathematics(Majors)
 
 ## Achivements
-1. ***Human vital signs monitoring software*** : The first authour of this Chinese National Software Copyright
-2.  Member of Chinese Computer Science Association
-3.  Certified Expert of Alibaba Cloud Community
-4.  Contract author of Machinery Industry Press
+- ***Human vital signs monitoring software*** : The first authour of this Chinese National Software Copyright
+-  Member of Chinese Computer Science Association
+-  Certified Expert of Alibaba Cloud Community
+-  Contract author of Machinery Industry Press
 
 ## Skills
 - Programing lauguage:Python, C++, Java
