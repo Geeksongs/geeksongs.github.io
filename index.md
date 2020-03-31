@@ -2,8 +2,8 @@
   <tr>
     <td width="75%">
       <h1>Jincen Song</h1>
-      <p><b>School of Computer Science,University of Sydney</b></p>
-      <p><b>Major in Data Science and Mathmatics</b></p>
+      <p><b>School of Computer Science,The University of Sydney</b></p>
+      <p><b>Major in Data Science and Mathematics</b></p>
     </td>
     <td width="25%">
       <img src="/6666.jpg" width="100%">     
@@ -11,38 +11,18 @@
   </tr>
 </table>
 
-## 个人简介
-整个人变得越来越懒，精力也没有以前充沛了，现在跑个操场三圈都觉得太远了，也懒得学习还要打开按一下开机键各种配置环境，懒得找对象反正也没几个人喜欢直接放弃，懒得写代码实在太难了完全不想写，懒的推导公式就没有哪一个数学公式看明白了的，懒得用手机，没有微信QQ，联系人就没有一个可联系的，要是没有百度地图，出去跑步连回来的路都找不到自然懒得锻炼了。没有褪黑素晚上就会因为突然想到白天的事情而惊醒，可能人变老了都会这样吧。本人的技术也很菜，就没有哪一样技术精通了的，实在是悲哀啊！
 
-## 最新消息
-- 备战GRE中
 
-## 学习和研究方向
-1. Android原生
-2. 图像处理
+### 2020——2024：The University of Sydney
+- Bachelor of Advanced computing(Degree)
+- Major in Data Science and Mathematics(Majors)
 
-## 个人经历
-### 2014—2017：就读于西南大学附中
-- 物理奥林匹克竞赛年级第二名（2/400），并同时获竞赛国奖
-- 西安电子科技大学自主招生全国第一名（1/3300），获高考30分加分和保送研究生资格
-- 物理科技论文竞赛重庆市三等奖（中国物理学会颁发）
+## Achivements
+1. 《Human vital signs monitoring software》Chinese National Software Copyright,the first authour
+2.  Member of Chinese Computer Science Association
+3.  Certified Expert of Alibaba Cloud Community
 
-### 2017—2018：创业
-- 炫发科技有限公司合伙人
-- 创立Geeksongs工作室
-- 退出公司和工作室前往高校学习
+## Chinese Blog
+- <a href="https://www.cnblogs.com/geeksongs/tag">https://www.cnblogs.com/geeksongs/</a>
 
-### 2018—2019：悉尼大学
-- 被悉尼大学英语系的语言班和计算机系录取
 
-## 个人荣誉
-1. 《人体生命体征检测软件》国家软件著作权，第一作者
-2. 《基于stm32的联网报警系统和后台智能算法设计》于省级学术期刊，第一作者
-3.  中国计算机学会会员
-4.  阿里云栖社区认证专家
-
-## 个人博客
-- <a href="https://www.cnblogs.com/geeksongs/tag">https://www.cnblogs.com/geeksongs/tag</a>
-
-## 备注
-哪个公司要是愿意收留我，我就是你的人了，全心全意为您服务！不管是为您打杂也好，开发也好，只要你的一句话，本人定当赴汤蹈火，在所不辞！
