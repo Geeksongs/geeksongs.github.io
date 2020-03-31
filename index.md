@@ -21,6 +21,7 @@
 1. ***Human vital signs monitoring software*** : The first authour of this Chinese National Software Copyright
 2.  Member of Chinese Computer Science Association
 3.  Certified Expert of Alibaba Cloud Community
+4.  Contract author of Machinery Industry Press
 
 ## Chinese Tech Blog
 - <a href="https://www.cnblogs.com/geeksongs/tag">https://www.cnblogs.com/geeksongs/</a>
