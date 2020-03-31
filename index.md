@@ -25,9 +25,10 @@
 
 ## Skills
 - Programing lauguage: Python, C++, Java
+- Data structure(None)
+- Artificial intelligence framework: Pytorch (None)
 - Android Development(Github 23 stars + )
-- Data Structure(None)
-- Pytorch(None)
+
 
 ## Chinese Tech Blog
 - <a href="https://www.cnblogs.com/geeksongs/tag">https://www.cnblogs.com/geeksongs/</a>
