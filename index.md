@@ -18,7 +18,7 @@
 - Major in Data Science and Mathematics(Majors)
 
 ## Achivements
-1. 《Human vital signs monitoring software》,The first authour of this Chinese National Software Copyright
+1. ***Human vital signs monitoring software***,The first authour of this Chinese National Software Copyright
 2.  Member of Chinese Computer Science Association
 3.  Certified Expert of Alibaba Cloud Community
 
