@@ -26,6 +26,6 @@
 - <a href="https://www.cnblogs.com/geeksongs/tag">https://www.cnblogs.com/geeksongs/</a>
 
 ## Github
-- <a href="https://github.com/geekosngs">https://github.com/geekosngs</a>
+- <a href="https://github.com/Geeksongs">https://github.com/Geeksongs</a>
 
 
