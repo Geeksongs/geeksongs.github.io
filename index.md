@@ -2,7 +2,7 @@
   <tr>
     <td width="75%">
       <h1>Jincen Song</h1>
-      <p><b>School of Computer Science,The University of Sydney</b></p>
+      <p><b><strong>School of Computer Science,The University of Sydney</strong></b></p>
       <p><b>Major in Data Science and Mathematics</b></p>
     </td>
     <td width="25%">
