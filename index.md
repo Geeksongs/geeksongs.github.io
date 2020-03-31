@@ -2,9 +2,8 @@
   <tr>
     <td width="75%">
       <h1>Jincen Song</h1>
-      <p><b>高中毕业</b></p>
-      <p><b>悉尼大学英语系</b></p>
-      <p><b>地址：重庆</b></p>
+      <p><b>School of Computer Science,University of Sydney</b></p>
+      <p><b>Major in Data Science and Mathmatics</b></p>
     </td>
     <td width="25%">
       <img src="/6666.jpg" width="100%">     
