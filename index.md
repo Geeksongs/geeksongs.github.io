@@ -32,7 +32,7 @@
 
 ## Chinese Tech Blog
 - <a href="https://www.cnblogs.com/geeksongs/tag">https://www.cnblogs.com/geeksongs/</a>
- .This blog is over 400,000 times views, followed by 47 people.
+ .This blog is over 400,000 times views, followed by 48 people.
 
 ## Github
 - <a href="https://github.com/Geeksongs">https://github.com/Geeksongs</a>
