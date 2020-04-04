@@ -3,7 +3,6 @@
     <td width="75%">
       <h1>Jincen Song</h1>
       <p><b><strong>School of Computer Science,The University of Sydney</strong></b></p>
-      <p><b>Major in Data Science and Mathematics</b></p>
       <p><b>email:json4256@uni.sydney.edu.au</b></p>
     </td>
     <td width="25%">
@@ -12,7 +11,8 @@
   </tr>
 </table>
 
-
+## Experience
+- I'm currently an undergraduate student majoring in Computational Data Science and Mathematics.I'll graduate with a bachelor of advanced computing degree(with Honor degree) from the School of Computer Science, The University of Sydney.
 
 ## Research area
 1. Computer vision
@@ -40,6 +40,6 @@
 - <a href="https://github.com/Geeksongs">https://github.com/Geeksongs</a>
 
 
-- I am looking for a research intership,if you are interested at me,please email me.
+- I'm looking for summer intern, if you are interested with me and my background, please contact me through email.
 
 
