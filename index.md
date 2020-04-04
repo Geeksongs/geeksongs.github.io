@@ -20,7 +20,7 @@
 3. Image processing 
 
 ## Achivements
-- ***Human vital signs monitoring software*** : The first authour of this Chinese National Software Copyright
+- ***Human vital signs monitoring software*** : The first authour of the Chinese National Software Copyright
 -  Member of Chinese Computer Science Association
 -  Certified Expert of Alibaba Cloud Community
 -  Contract author of Machinery Industry Press
@@ -34,7 +34,7 @@
 
 ## Chinese Tech Blog
 - <a href="https://www.cnblogs.com/geeksongs/tag">https://www.cnblogs.com/geeksongs/</a>
- .This blog is over 400,000 times views, followed by 48 people.
+ .This blog is over 400,000 times views, followed by 49 people.
 
 ## Github
 - <a href="https://github.com/Geeksongs">https://github.com/Geeksongs</a>
