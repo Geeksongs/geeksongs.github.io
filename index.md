@@ -12,7 +12,7 @@
 </table>
 
 ## Experience
-- I'm currently an undergraduate student majoring in computational data science and mathematics. I'll graduate with a bachelor of advanced computing degree(with Honor degree) from the School of Computer Science, The University of Sydney. I'm looking for summer intern, if you are interested with me and my background, please contact me through email.
+- I'm currently an undergraduate student majoring in computational data science and mathematics. I'll graduate with a bachelor of advanced computing degree(with Honor degree) from the School of Computer Science, the University of Sydney. I'm looking for summer intern, if you are interested with me and my background, please contact me through email.
 
 ## Research area
 1. Computer vision
