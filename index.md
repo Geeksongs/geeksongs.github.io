@@ -4,6 +4,7 @@
       <h1>Jincen Song</h1>
       <p><b><strong>School of Computer Science,The University of Sydney</strong></b></p>
       <p><b>Major in Data Science and Mathematics</b></p>
+      <p><b>email:json4256@uni.sydney.edu.au</b></p>
     </td>
     <td width="25%">
       <img src="shuai2.jpg" width="100%">     
@@ -13,9 +14,10 @@
 
 
 
-### 2020——2024：The University of Sydney
-- Bachelor of Advanced computing(Degree)
-- Major in Data Science and Mathematics(Majors)
+## Research area
+1. Computer vision
+2. Deep learning 
+3. Image processing 
 
 ## Achivements
 - ***Human vital signs monitoring software*** : The first authour of this Chinese National Software Copyright
@@ -36,5 +38,8 @@
 
 ## Github
 - <a href="https://github.com/Geeksongs">https://github.com/Geeksongs</a>
+
+
+- I am looking for a research intership,if you are interested at me,please email me.
 
 
