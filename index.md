@@ -17,7 +17,7 @@
 ## Research area
 1. Computer vision
 2. Deep learning 
-3. Image processing 
+3. 3D construction
 
 ## Achivements
 -  Member of Chinese Computer Science Association
