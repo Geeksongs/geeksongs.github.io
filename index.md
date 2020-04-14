@@ -26,9 +26,9 @@
 - [***Human vital signs monitoring software***](https://www.zhifufu.com/software/3496c3efa281493ba640a18d615867c0.html) : The first authour of the Chinese National Software Copyright
 
 ## Skills
-- Programing lauguage: Python, C++, Java
+- Proficient programming language: Python, C++, Java
 - Data structure(None)
-- Artificial intelligence framework: Pytorch (None)
+- Artificial intelligence framework: Keras
 - Android Development(Github 23 stars + )
 
 
