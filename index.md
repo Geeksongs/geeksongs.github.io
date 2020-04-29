@@ -19,6 +19,11 @@
 2. Deep Learning 
 3. 3D Reconstruction
 
+## 个人项目展示
+1. 自动驾驶车道检测（传统方法和深度学习相结合）
+2. 考试防作弊软件（主要用脸检测）
+3. 将yoloV4模型迁移到树莓派，以及安卓端上运行
+
 ## Achivements
 -  Member of Chinese Computer Science Association
 -  Certified Expert of Alibaba Cloud Community
