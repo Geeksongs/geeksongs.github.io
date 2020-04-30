@@ -16,8 +16,8 @@
 
 ## Interested Research area
 1. Computer Vision
-2. Deep Learning 
-3. 3D Reconstruction
+2. Autopilot 
+3. Brain Computer Interface
 
 ## 个人项目展示
 1. 自动驾驶车道检测（传统方法和深度学习相结合）
