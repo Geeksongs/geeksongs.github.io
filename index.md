@@ -25,7 +25,7 @@
 3. 将yoloV4模型迁移到树莓派，以及安卓端上运行
 
 ## Achivements
-~  My GPA is 3.9 in the first semester. 
+~  My GPA is 3.9(4.0) in the first semester. 
 -  Codeforce Rating 2000+
 -  Certified Expert of Alibaba Cloud Community
 -  Contract author of Machinery Industry Press
