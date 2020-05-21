@@ -12,7 +12,7 @@
 </table>
 
 ## Experience
-- I'm currently a first-year undergraduate student majoring in computational data science and mathematics. I'll graduate with a bachelor of advanced computing degree(with Honor) from the School of Computer Science, the University of Sydney.My ambition is to become a computer vision researcher in the future.
+- I'm currently a first-year undergraduate student majoring in computational data science and mathematics. I'll graduate with a bachelor of advanced computing degree(with Honor) from the School of Computer Science, the University of Sydney.My ambition is to become a computer vision researcher in the future. 
 
 ## Interested Research area
 1. Computer Vision
@@ -25,6 +25,7 @@
 3. 将yoloV4模型迁移到树莓派，以及安卓端上运行
 
 ## Achivements
+~  My GPA is 3.9 in the first semester. 
 -  Codeforce Rating 2000+
 -  Certified Expert of Alibaba Cloud Community
 -  Contract author of Machinery Industry Press
