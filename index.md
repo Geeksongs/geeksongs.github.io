@@ -25,7 +25,7 @@
 3. 将yoloV4模型迁移到安卓端上运行
 
 ## Achivements
-~  My GPA is 3.9/4.0), WAM is 6.5/7.0
+~  My GPA is 3.9/4.0, WAM is 6.5/7.0
 -  Certified Expert of Alibaba Cloud Community
 -  Book author of Machinery Industry Press
 - [***Human vital signs monitoring software***](https://www.zhifufu.com/software/3496c3efa281493ba640a18d615867c0.html) : The first authour of the Chinese National Software Copyright
