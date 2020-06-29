@@ -6,7 +6,7 @@
       <p><b>email:json4256@uni.sydney.edu.au</b></p>=
     </td>
     <td width="25%">
-      <img src="shuai2.jpg" width="100%">     
+      <img src="cool.jpg" width="100%">     
     </td>
   </tr>
 </table>
