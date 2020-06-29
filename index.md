@@ -1,5 +1,5 @@
 <table border="0">
-  <tr
+  <tr>
     <td width="75%">
       <h1>Jincen Song</h1>
       <p><b><strong>School of Computer Science, the University of Sydney</strong></b></p>
