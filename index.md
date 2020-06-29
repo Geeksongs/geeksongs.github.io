@@ -3,8 +3,7 @@
     <td width="75%">
       <h1>Jincen Song</h1>
       <p><b><strong>School of Computer Science, the University of Sydney</strong></b></p>
-      <p><b>email:json4256@uni.sydney.edu.au</b></p>
-
+      <p><b>email:json4256@uni.sydney.edu.au</b></p>=
     </td>
     <td width="25%">
       <img src="shuai2.jpg" width="100%">     
