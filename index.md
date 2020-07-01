@@ -33,7 +33,7 @@
 ## Skills
 - Proficient programming language: Python, C++, Java
 - Proficient with data structure
-- Proficient with CNN, such as <b>Resnet50, VGG16</b> and so on.
+- Proficient with CNN, such as <b>ResNet50, VGG16</b> and so on.
 - Proficient with Object Detection,such as <b>Yolo, Faster-RCNN, EfficientDet(CVPR 2020)</b> and so on. I have read all of those papers.
 - Proficient with Semantic Segmentation，such as <b>FCN, Mask-RCNN</b>.
 - Artificial intelligence framework: Tensorflow, Pytorch, Keras
