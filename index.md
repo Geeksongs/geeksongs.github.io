@@ -33,7 +33,10 @@
 ## Skills
 - Proficient programming language: Python, C++, Java
 - Proficient with data structure
-- Artificial intelligence framework: Tensorflow, Keras
+- Proficient with CNN, such as Resnet50, VGG16 and so on.
+- Proficient with Object Detection,such as Yolo V5,Faster-RCNN,EfficientDet and so on. I have read all of those papers.
+- Proficient with Semantic Segmentation，such as FCN, Mask-RCNN.
+- Artificial intelligence framework: Tensorflow, Pytorch, Keras
 - Android Development(Github 25 stars + )
 
 
