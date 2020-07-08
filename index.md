@@ -42,11 +42,12 @@
 - Artificial intelligence framework: Tensorflow, Pytorch, Keras
 - Strong capacity in Android software design & development( E.g. Github 25 stars + )  
   
- 
+
 ### Basic Knowledge of Computer Vision
 - Familiar with <b>Object Detection</b>,such as <b>Yolo, Faster-RCNN, EfficientDet(CVPR 2020)</b> and so on. I have read all of those papers.
 - Familiar with <b>Semantic Segmentation</b>，such as <b>FCN, Mask-RCNN.</b>
 - Familiar with <b>Graph Neural Network.</b>
+
 ### Excellent Interpersonal Communication Skills
 - Had worked as a product manager of a technology company , and write software requirements documents for programmers and UI designers.
 
