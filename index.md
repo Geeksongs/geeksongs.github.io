@@ -33,13 +33,18 @@
 -  Book author of [***Machinery Industry Press***](https://zh.wikipedia.org/wiki/机械工业出版社)
 - [***Human vital signs monitoring software***](https://www.zhifufu.com/software/3496c3efa281493ba640a18d615867c0.html) : The first authour of the Chinese National Software Copyright
 
-## Skills
-- Proficient programming language: Python, C++, Java
-- Proficient with <b>Object Detection</b>,such as <b>Yolo, Faster-RCNN, EfficientDet(CVPR 2020)</b> and so on. I have read all of those papers.
-- Proficient with <b>Semantic Segmentation</b>，such as <b>FCN, Mask-RCNN.</b>
-- Proficient with <b>Graph Neural Network.</b>
+## Skills Summary
+### Proficient Programming Skills 
+- Mastered many kinds of programming languages ( E.g. Python, Java, C )
 - Artificial intelligence framework: Tensorflow, Pytorch, Keras
-- Android Development(Github 25 stars + )
+- Strong capacity in Android software design & development( E.g. Github 25 stars + )
+### Basic Knowledge of Computer Vision
+- Familiar with <b>Object Detection</b>,such as <b>Yolo, Faster-RCNN, EfficientDet(CVPR 2020)</b> and so on. I have read all of those papers.
+- Familiar with <b>Semantic Segmentation</b>，such as <b>FCN, Mask-RCNN.</b>
+- Familiar with <b>Graph Neural Network.</b>
+### Excellent Interpersonal Communication Skills
+- Had worked as a product manager of a technology company , and write software requirements documents for programmers and UI designers.
+
 
 
 ## Chinese Tech Blog
@@ -48,8 +53,9 @@
 
 ## Github
 - <a href="https://github.com/Geeksongs">https://github.com/Geeksongs</a>
-
-
+## Sincere Appreciate
+Thank you for spending time reading my resume. 
+Looking forward to studying and working under your guidance.
 
 
 
