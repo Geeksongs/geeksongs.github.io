@@ -12,10 +12,11 @@
 </table>
 
 ## Experience
-### 1.The University of Sydney,2019-Now
+### 1.The University of Sydney, 2019-Now
 - I'm currently a undergraduate student majoring in Computational data science and Statistics from the University of Sydney. I'll graduate with a Bachelor of advanced computing degree(with Honor). My ambition is to become a computer vision researcher in the future.All of my math courses reach 90+ marks,my calculus' mark is 95,my Linear Algebra have got 93.
  
-### 2.
+### 2.Computational Intelligence Chongqing Key Laboratory, 2019.1-2019.3
+- I am one of the team members in this famous Artificial Intelligence Laboratory in the Southwest of China to learn Computer vision . During this time, I have completed a project for dashboard recognition.
 
 ## Interested Research area
 1. Computer Vision
@@ -28,18 +29,15 @@
 3. 将yoloV4模型迁移到安卓端上运行
 
 ## Achivements
-~  My GPA is 3.9/4.0, WAM is 6.5/7.0
 -  Certified Expert of Alibaba Cloud Community
--  Book author of Machinery Industry Press
+-  Book author of [***Machinery Industry Press***](https://zh.wikipedia.org/wiki/机械工业出版社)
 - [***Human vital signs monitoring software***](https://www.zhifufu.com/software/3496c3efa281493ba640a18d615867c0.html) : The first authour of the Chinese National Software Copyright
 
 ## Skills
 - Proficient programming language: Python, C++, Java
-- Proficient with data structure
-- Proficient with <b>CNN</b>, such as <b>ResNet50, VGG16</b> and so on.
 - Proficient with <b>Object Detection</b>,such as <b>Yolo, Faster-RCNN, EfficientDet(CVPR 2020)</b> and so on. I have read all of those papers.
 - Proficient with <b>Semantic Segmentation</b>，such as <b>FCN, Mask-RCNN.</b>
-- Proficient with <b>Graph convolutional neural network.</b>
+- Proficient with <b>Graph Neural Network.</b>
 - Artificial intelligence framework: Tensorflow, Pytorch, Keras
 - Android Development(Github 25 stars + )
 
