@@ -13,7 +13,7 @@
 
 ## Experience
 ### 1.The University of Sydney, 2019-Now
-- I'm currently a undergraduate student majoring in Computational data science and Statistics from the University of Sydney. I'll graduate with a Bachelor of advanced computing degree(with Honor). My ambition is to become a computer vision researcher in the future.All of my math courses reach 90+ marks,my calculus' mark is 95,my Linear Algebra have got 93.
+- I'm currently a undergraduate student majoring in Computational data science and Statistics from the University of Sydney. I'll graduate with a Bachelor of advanced computing degree(with Honor). My ambition is to become a computer vision researcher in the future. All of my math courses reach 90+ marks, my Calculus'mark is 95, my Linear Algebra's mark is 93.
  
 ### 2.Computational Intelligence Chongqing Key Laboratory, 2019.1-2019.3
 - I am one of the team members in this famous Artificial Intelligence Laboratory in the Southwest of China to learn Computer vision . During this time, I have completed a project for dashboard recognition.
