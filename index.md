@@ -19,7 +19,7 @@
 - I am one of the team members in this famous Artificial Intelligence Laboratory in the Southwest of China to learn Computer vision . During this time, I have completed a project for dashboard recognition.
 
 ### 3.Chongqing University, 2017.8-2019.8
-- I was admitted by Chongqing University and start my university life.
+- I was admitted by one of the 985 University in China.
 
 ## Interested Research area
 1. Computer Vision
@@ -58,7 +58,10 @@
 - <a href="https://www.cnblogs.com/geeksongs/tag">https://www.cnblogs.com/geeksongs/</a>
  .This blog is over 400,000 times views, followed by 63 people.
   
-  
+## Project
+### 1.OCR natural scene text recognition
+- 
+
 ## Github
 - <a href="https://github.com/Geeksongs">https://github.com/Geeksongs</a>
 ## Sincere Appreciate  
