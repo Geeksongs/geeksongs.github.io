@@ -60,7 +60,9 @@
   
 ## Project
 ### 1.OCR natural scene text recognition
-- 
+- Recognize text by using CTPN model
+![ebay](https://github.com/Geeksongs/geeksongs.github.io/blob/master/ebay_1.png)
+![ebay2](https://github.com/Geeksongs/geeksongs.github.io/blob/master/ebay.png)
 
 ## Github
 - <a href="https://github.com/Geeksongs">https://github.com/Geeksongs</a>
