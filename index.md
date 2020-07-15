@@ -62,8 +62,7 @@
 ### 1.OCR natural scene text recognition
 - Recognize text by using CTPN model
 <html>
-  <img src="https://github.com/Geeksongs/geeksongs.github.io/blob/master/ebay_1.png" width="75%"> </img>
-  <img src="https://github.com/Geeksongs/geeksongs.github.io/blob/master/ebay.png" width="75%"> </img>
+  <img src="https://github.com/Geeksongs/geeksongs.github.io/blob/master/ebay.png" height="100"> </img>
  </html>
 
 ## Github
