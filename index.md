@@ -61,12 +61,7 @@
 ## Project
 ### 1.OCR natural scene text recognition
 - Recognize text by using CTPN model
-<html>
-<body>
-  <img src="https://github.com/Geeksongs/geeksongs.github.io/blob/master/ebay.png" height="300"/> 
-</body>
-</html>
-
+![ocr](https://github.com/Geeksongs/geeksongs.github.io/blob/master/ebay.png"){:height="50%" width="50%"}
 ## Github
 - <a href="https://github.com/Geeksongs">https://github.com/Geeksongs</a>
 ## Sincere Appreciate  
