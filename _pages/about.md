@@ -12,3 +12,13 @@ I am a Master's student at [Columbia University](https://www.columbia.edu/), and
 
 
 
+Publication
+======
+<div style="display: flex; align-items: center; justify-content: center;">
+  <img src="https://github.com/Geeksongs/geeksongs.github.io/raw/master/images/pub1.png" alt="My Image" width="300" />
+  <div style="margin-left: 20px;">
+    <h2>VRMDiff: Text-Guided Video Referring Matting Generation of Diffusion</h2>
+  </div>
+</div>
+
+
