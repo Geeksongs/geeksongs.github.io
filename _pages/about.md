@@ -17,7 +17,7 @@ Publication
 <div style="display: flex; align-items: center; justify-content: center; flex-wrap: wrap;">
   <img src="https://github.com/Geeksongs/geeksongs.github.io/raw/master/images/pub1.png" alt="My Image" style="width: 100%; max-width: 200px;" />
   <div style="margin-left: 20px; max-width: 100%;">
-    <h2><strong>VRMDiff: Text-Guided Video Referring Matting Generation of Diffusion</strong></h2>
+    <h3>VRMDiff: Text-Guided Video Referring Matting Generation of Diffusion</h3>
     <p style="font-size: 14px;">Lehan Yang, <strong>Python Song</strong>, Tianlong Wang, Daiqing Qi, Weili Shi, Yuheng Liu, Sheng Li</p>
     <p style="font-size: 14px;">Submitted to ICCV, 2025 (Under Review)</p>
   </div>
