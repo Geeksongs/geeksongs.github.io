@@ -14,7 +14,7 @@ I am a Master's student at [Columbia University](https://www.columbia.edu/), and
 
 Publication
 ======
-<div style="display: flex; align-items: center; justify-content: flex-start; flex-wrap: wrap;">
+<div style="display: flex; align-items: center; justify-content: flex-start; flex-wrap: nowrap;">
   <img src="https://github.com/Geeksongs/geeksongs.github.io/raw/master/images/pub1.png" alt="My Image" style="width: 100%; max-width: 200px;" />
   <div style="margin-left: 20px; max-width: 100%; text-align: left;">
     <h3><strong>VRMDiff: Text-Guided Video Referring Matting Generation of Diffusion</strong></h3>
@@ -22,6 +22,7 @@ Publication
     <p style="font-size: 14px;">Submitted to ICCV, 2025 (Under Review)</p>
   </div>
 </div>
+
 
 
 
