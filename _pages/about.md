@@ -19,7 +19,7 @@ Publication
   <div style="margin-left: 20px;">
     <h2><strong>VRMDiff: Text-Guided Video Referring Matting Generation of Diffusion</strong></h2>
     <p>Lehan Yang, <strong>Python Song</strong>, Tianlong Wang, Daiqing Qi, Weili Shi, Yuheng Liu, Sheng Li</p>
-    <p>Submitted to ICCV, 2025 (Under Review)</p>
+    <p>Submitted to ICCV, 2025</p>
   </div>
 </div>
 
