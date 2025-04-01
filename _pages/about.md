@@ -57,10 +57,10 @@ Publication
 
 Honor 
 ======
-Highest Honor Graduate Student with First-Class Honour at the University of Sydney(Top 1%)
-National High School Physics Olympiad: National First-Prize(Top%0.01)
-CCF Big Data and Computing Intelligence Contest: Top%2
-GitHub: https://github.com/geeksongs with 130+ Star
+Highest Honor Graduate Student with First-Class Honour at the University of Sydney(Top 1%)  
+National High School Physics Olympiad: National First-Prize(Top%0.01)  
+CCF Big Data and Computing Intelligence Contest: Top%2  
+GitHub: https://github.com/geeksongs with 130+ Star  
 CSDN: https://blog.csdn.net/Geeksongs with 8000+ Fans(The Biggest IT Blog community in Asian) 
 
 
