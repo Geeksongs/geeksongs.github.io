@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-I am a first-year Master's student at [Columbia University](https://www.columbia.edu/), and I am honored to conduct research under the guidance of [Dr. Junfeng Yang](https://www.cs.columbia.edu/~junfeng/) at Columbia Software System Lab and working closely with [Lehan Yang](https://bio.lehanyang.info/) at the University of Virginia. My research interests lie in the intersection of *Vision Language Models*,  *Robotics*, *AI for Science*, and *Neuroscience*. Additionally, I have gained valuable industry experience as a Deep Learning Algorithm Engineer Intern at both [TikTok](https://www.tiktok.com/) and [JD.com](https://www.jd.com/). In addition, I am also the author of the popular book *Learn Android Development from Zero*, and have founded multiple start-up companies.
+I am a first-year Master's student at [Columbia University](https://www.columbia.edu/), and I am honored to conduct research under the guidance of [Dr. Junfeng Yang](https://www.cs.columbia.edu/~junfeng/) at Columbia Software System Lab and [Lehan Yang](https://bio.lehanyang.info/) at the University of Virginia. My research interests lie in the intersection of *Vision Language Models*,  *Robotics*, *AI for Science*, and *Neuroscience*. Additionally, I have gained valuable industry experience as a Deep Learning Algorithm Engineer Intern at both [TikTok](https://www.tiktok.com/) and [JD.com](https://www.jd.com/). In addition, I am also the author of the popular book *Learn Android Development from Zero*, and have founded multiple start-up companies.
 
 Book
 ======
@@ -20,6 +20,8 @@ Book
     <p style="font-size: 14px; margin-top: 0px; margin-bottom: 0px;">Mechanical Industry Press, Ranked 9th on the List of <em>Most-Read Books Among Programmers</em> in JD.com</p>
   </div>
 </div>
+
+<br>
 
 
 Publication
@@ -50,6 +52,16 @@ Publication
   </div>
 </div>
 
+<br>
+
+
+Honor 
+======
+Highest Honor Graduate Student with First-Class Honour at the University of Sydney(Top 1%)
+National High School Physics Olympiad: National First-Prize(Top%0.01)
+CCF Big Data and Computing Intelligence Contest: Top%2
+GitHub: https://github.com/geeksongs with 130+ Star
+CSDN: https://blog.csdn.net/Geeksongs with 8000+ Fans(The Biggest IT Blog community in Asian) 
 
 
 
