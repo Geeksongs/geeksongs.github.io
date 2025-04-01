@@ -8,8 +8,18 @@ redirect_from:
 ---
 
 
-I am a first-year Master's student at [Columbia University](https://www.columbia.edu/), and I am honored to conduct research under the guidance of [Dr. Junfeng Yang](https://www.cs.columbia.edu/~junfeng/) at Columbia Software System Lab and working closely with [Lehan Yang](https://bio.lehanyang.info/) at the University of Virginia. My research interests lie in the intersection of *Vision Language Models*,  *Robotics*, *AI for Science*, and *Neuroscience*. Additionally, I have gained valuable industry experience as a Deep Learning Algorithm Engineer Intern at both [TikTok](https://www.tiktok.com/) and [JD.com](https://www.jd.com/), where I contributed to optimizing recommendation systems and improving Deep learning models.
+I am a first-year Master's student at [Columbia University](https://www.columbia.edu/), and I am honored to conduct research under the guidance of [Dr. Junfeng Yang](https://www.cs.columbia.edu/~junfeng/) at Columbia Software System Lab and working closely with [Lehan Yang](https://bio.lehanyang.info/) at the University of Virginia. My research interests lie in the intersection of *Vision Language Models*,  *Robotics*, *AI for Science*, and *Neuroscience*. Additionally, I have gained valuable industry experience as a Deep Learning Algorithm Engineer Intern at both [TikTok](https://www.tiktok.com/) and [JD.com](https://www.jd.com/). In addition, I am also the author of the popular book *Learn Android Development from Zero*, and have founded multiple start-up companies.
 
+Book
+======
+<div style="display: flex; align-items: center; justify-content: flex-start; flex-wrap: nowrap;">
+  <img src="https://github.com/Geeksongs/geeksongs.github.io/raw/master/images/book.png" alt="Book Cover" style="height: 200px; width: auto; object-fit: contain; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
+  <div style="margin-left: 20px; max-width: 100%; text-align: left;">
+    <h3><strong><em>Learn Android Development from Zero</em></strong></h3>
+    <p style="font-size: 14px; margin-bottom: 5px;"><strong>Python Song</strong></p>
+    <p style="font-size: 14px; margin-top: 0px; margin-bottom: 0px;">Mechanical Industry Press</p>
+  </div>
+</div>
 
 
 Publication
@@ -36,7 +46,7 @@ Publication
   <div style="margin-left: 20px; max-width: 100%; text-align: left;">
     <h3><strong>Rethinking the Knowledge Distillation From the Perspective of Model Calibration</strong></h3>
     <p style="font-size: 14px; margin-bottom: 5px;">Lehan Yang, <strong>Python Song</strong></p>
-    <p style="font-size: 14px; margin-top: 0px; margin-bottom: 0px;">Cited by 3 Times</p>
+    <p style="font-size: 14px; margin-top: 0px; margin-bottom: 0px;">Cited by 3 Times, Reported by <strong>Medium</strong></p>
   </div>
 </div>
 
