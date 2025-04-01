@@ -26,42 +26,52 @@ Book
 
 Publication
 ======
-<div style="display: flex; align-items: center; justify-content: flex-start; flex-wrap: nowrap;">
-  <img src="https://github.com/Geeksongs/geeksongs.github.io/raw/master/images/pub1.png" alt="My Image" style="width: 100%; max-width: 200px;" />
-  <div style="margin-left: 20px; max-width: 100%; text-align: left;">
-    <h3><strong>VRMDiff: Text-Guided Video Referring Matting Generation of Diffusion</strong></h3>
+<!-- VRMDiff -->
+<!-- VRMDiff -->
+<div style="display: flex; align-items: center; justify-content: flex-start; flex-wrap: nowrap; min-width: 500px;">
+  <img src="https://github.com/Geeksongs/geeksongs.github.io/raw/master/images/pub1.png" alt="VRMDiff"
+    style="height: 180px; width: auto; max-width: 200px; flex-shrink: 0; margin-right: 20px; object-fit: contain;" />
+  <div style="width: calc(100% - 220px); text-align: left;">
+    <h3 style="margin-top: 0;"><strong>VRMDiff: Text-Guided Video Referring Matting Generation of Diffusion</strong></h3>
     <p style="font-size: 14px; margin-bottom: 5px;">Lehan Yang, <strong>Python Song</strong>, Tianlong Wang, Daiqing Qi, Weili Shi, Yuheng Liu, Sheng Li</p>
-    <p style="font-size: 14px; margin-top: 0px; margin-bottom: 0px;">Submitted to ICCV, 2025 (Under Review)</p>
+    <p style="font-size: 14px; margin: 0;">Submitted to ICCV, 2025 (Under Review)</p>
   </div>
 </div>
 
-<div style="display: flex; align-items: center; justify-content: flex-start; flex-wrap: nowrap;">
-  <img src="https://github.com/Geeksongs/geeksongs.github.io/raw/master/images/pub3.png" alt="My Image" style="width: 100%; max-width: 200px;" />
-  <div style="margin-left: 20px; max-width: 100%; text-align: left;">
-    <h3><strong>NTIRE 2024 dense and non-homogeneous dehazing challenge report</strong></h3>
-    <p style="font-size: 14px; margin-top: 0px; margin-bottom: 0px;">Accepted by CVPR workshop, 2024. Cited by 21 Times</p>
+<!-- NTIRE 2024 -->
+<div style="display: flex; align-items: center; justify-content: flex-start; flex-wrap: nowrap; min-width: 500px;">
+  <img src="https://github.com/Geeksongs/geeksongs.github.io/raw/master/images/pub3.png" alt="NTIRE"
+    style="height: 180px; width: auto; max-width: 200px; flex-shrink: 0; margin-right: 20px; object-fit: contain;" />
+  <div style="width: calc(100% - 220px); text-align: left;">
+    <h3 style="margin-top: 0;"><strong>NTIRE 2024 Dense and Non-Homogeneous Dehazing Challenge Report</strong></h3>
+    <p style="font-size: 14px; margin: 0;">Accepted by CVPR Workshop, 2024. Cited by 21 Times</p>
   </div>
 </div>
 
-<div style="display: flex; align-items: center; justify-content: flex-start; flex-wrap: nowrap;">
-  <img src="https://github.com/Geeksongs/geeksongs.github.io/raw/master/images/paper2.png" alt="My Image" style="width: 100%; max-width: 200px;" />
-  <div style="margin-left: 20px; max-width: 100%; text-align: left;">
-    <h3><strong>Rethinking the Knowledge Distillation From the Perspective of Model Calibration</strong></h3>
+<!-- Knowledge Distillation -->
+<div style="display: flex; align-items: center; justify-content: flex-start; flex-wrap: nowrap; min-width: 500px;">
+  <img src="https://github.com/Geeksongs/geeksongs.github.io/raw/master/images/paper2.png" alt="KD"
+    style="height: 180px; width: auto; max-width: 200px; flex-shrink: 0; margin-right: 20px; object-fit: contain;" />
+  <div style="width: calc(100% - 220px); text-align: left;">
+    <h3 style="margin-top: 0;"><strong>Rethinking the Knowledge Distillation From the Perspective of Model Calibration</strong></h3>
     <p style="font-size: 14px; margin-bottom: 5px;">Lehan Yang, <strong>Python Song</strong></p>
-    <p style="font-size: 14px; margin-top: 0px; margin-bottom: 0px;">Cited by 3 Times, Reported by <strong>Medium</strong></p>
+    <p style="font-size: 14px; margin: 0;">Cited by 3 Times, Reported by <strong>Medium</strong></p>
   </div>
 </div>
+
+
 
 <br>
 
 
 Honor 
 ======
-Highest Honor Graduate Student with First-Class Honour at the University of Sydney(Top 1%)  
-National High School Physics Olympiad: National First-Prize(Top%0.01)  
-CCF Big Data and Computing Intelligence Contest: Top%2  
-GitHub: https://github.com/geeksongs with 130+ Star  
-CSDN: https://blog.csdn.net/Geeksongs with 8000+ Fans(The Biggest IT Blog community in Asian) 
+- Highest Honor Graduate Student with **First-Class Honour** at the University of Sydney (**Top 1%**)
+- National High School Physics Olympiad: **National First-Prize** (**Top 0.01%**)
+- CCF Big Data and Computing Intelligence Contest: **Top 2%**
+- **GitHub:** [https://github.com/geeksongs](https://github.com/geeksongs) with **130+ Star**
+- **CSDN:** [https://blog.csdn.net/Geeksongs](https://blog.csdn.net/Geeksongs) with **8800+ Fans** (**The Biggest IT Blog community in Asian**)
+
 
 
 
