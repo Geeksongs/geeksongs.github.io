@@ -17,7 +17,7 @@ Book
   <div style="margin-left: 20px; max-width: 100%; text-align: left;">
     <h3><strong><em>Learn Android Development from Zero</em></strong></h3>
     <p style="font-size: 14px; margin-bottom: 5px;"><strong>Python Song</strong></p>
-    <p style="font-size: 14px; margin-top: 0px; margin-bottom: 0px;">Mechanical Industry Press, Ranked 9th on the List of *Most-Read Books Among Programmers* in JD.com</p>
+    <p style="font-size: 14px; margin-top: 0px; margin-bottom: 0px;">Mechanical Industry Press, Ranked 9th on the List of <em>Most-Read Books Among Programmers</em> in JD.com</p>
   </div>
 </div>
 
