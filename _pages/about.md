@@ -13,12 +13,9 @@ I am a first-year Master's student at [Columbia University](https://www.columbia
 Research Direction
 ======
 
-```mermaid
-graph TD
-    A[🧠 Robot Brain<br/>Neuroscience-Inspired Goal Generation] --> B[🌍 World Model<br/>Reasoning & Imagination]
-    B --> C[🤖 VLA Execution<br/>Vision-Language-Action for Embodied Learning]
-    C --> D[🔁 Learn by Doing<br/>Online Adaptation & Self-Improvement]
-```
+![Research Direction](https://github.com/Geeksongs/geeksongs.github.io/blob/master/images/research_direction.png)
+
+
 
 
 Book
