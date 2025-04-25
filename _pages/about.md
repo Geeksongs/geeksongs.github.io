@@ -8,7 +8,18 @@ redirect_from:
 ---
 
 
-I am a first-year Master's student at [Columbia University](https://www.columbia.edu/), and I am honored to conduct research under the guidance of [Dr. Junfeng Yang](https://www.cs.columbia.edu/~junfeng/) at Columbia Software System Lab and [Lehan Yang](https://bio.lehanyang.info/) at the University of Virginia. My research interests lie in the intersection of *Vision Language Models*,  *Robotics*, *AI for Science*, and *Neuroscience*. Additionally, I have gained valuable industry experience as a Deep Learning Algorithm Engineer Intern at both [TikTok](https://www.tiktok.com/) and [JD.com](https://www.jd.com/). In addition, I am also the author of the popular book *Learn Android Development from Zero*, and have founded multiple start-up companies.
+I am a first-year Master's student at [Columbia University](https://www.columbia.edu/), and I am honored to conduct research under the guidance of [Dr. Junfeng Yang](https://www.cs.columbia.edu/~junfeng/) at Columbia University and advised by [Chen Feng](https://scholar.google.com/citations?user=YeG8ZM0AAAAJ&hl=en) at New York University, [Lehan Yang](https://bio.lehanyang.info/) at the University of Virginia. My research interests lie in the intersection of *Vision Language Models*,  *Robotics*, *AI for Science*, and *Neuroscience*. My goal is to build General-Purpose Robotics. Additionally, I have gained valuable industry experience as a Deep Learning Algorithm Engineer Intern at both [TikTok](https://www.tiktok.com/) and [JD.com](https://www.jd.com/). In addition, I am also the author of the popular book *Learn Android Development from Zero*, and have founded multiple start-up companies.
+
+Research Direction
+======
+
+```mermaid
+graph TD
+    A[🧠 Robot Brain<br/>Neuroscience-Inspired Goal Generation] --> B[🌍 World Model<br/>Reasoning & Imagination]
+    B --> C[🤖 VLA Execution<br/>Vision-Language-Action for Embodied Learning]
+    C --> D[🔁 Learn by Doing<br/>Online Adaptation & Self-Improvement]
+```
+
 
 Book
 ======
