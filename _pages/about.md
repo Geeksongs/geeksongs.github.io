@@ -21,7 +21,9 @@ Research Direction
 Book
 ======
 <div style="display: flex; align-items: center; justify-content: flex-start; flex-wrap: nowrap;">
-  <img src="https://github.com/Geeksongs/geeksongs.github.io/raw/master/images/book.png" alt="Book Cover" style="height: 200px; width: auto; object-fit: contain; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
+  <img src="https://github.com/Geeksongs/geeksongs.github.io/raw/master/images/research_direction.png" 
+     alt="Research Direction" 
+     style="height: 500px; width: auto; display: block; margin: 0 auto;" />
   <div style="margin-left: 20px; max-width: 100%; text-align: left;">
     <h3><strong><em>Learn Android Development from Zero</em></strong></h3>
     <p style="font-size: 14px; margin-bottom: 5px;"><strong>Python Song</strong></p>
