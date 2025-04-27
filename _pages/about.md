@@ -13,7 +13,7 @@ I am a first-year Master's student at [Columbia University](https://www.columbia
 Research Direction
 ======
 
-<img src="https://github.com/Geeksongs/geeksongs.github.io/raw/master/images/research_direction.png" 
+<img src="https://github.com/Geeksongs/geeksongs.github.io/raw/master/images/robot.png" 
      alt="Research Direction" 
      style="height: 500px; width: auto; display: block; margin: 0 auto;" />
 
