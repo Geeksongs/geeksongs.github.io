@@ -59,7 +59,7 @@ Publication
     style="height: 180px; width: auto; max-width: 200px; flex-shrink: 0; margin-right: 20px; object-fit: contain;" />
   <div style="width: calc(100% - 220px); text-align: left;">
     <h3 style="margin-top: 0;"><strong>NTIRE 2024 Dense and Non-Homogeneous Dehazing Challenge Report</strong></h3>
-    <p style="font-size: 14px; margin: 0;">Accepted by CVPR Workshop, 2024. Cited by 21 Times</p>
+    <p style="font-size: 14px; margin: 0;">Accepted by CVPR Workshop, 2024. Cited by 24 Times</p>
   </div>
 </div>
 
@@ -70,7 +70,7 @@ Publication
   <div style="width: calc(100% - 220px); text-align: left;">
     <h3 style="margin-top: 0;"><strong>Rethinking the Knowledge Distillation From the Perspective of Model Calibration</strong></h3>
     <p style="font-size: 14px; margin-bottom: 5px;">Lehan Yang, <strong>Python Song</strong></p>
-    <p style="font-size: 14px; margin: 0;">Cited by 3 Times, Reported by <strong>Medium</strong></p>
+    <p style="font-size: 14px; margin: 0;">Cited by 3 Times, Reported by <strong>Medium.com</strong></p>
   </div>
 </div>
 
