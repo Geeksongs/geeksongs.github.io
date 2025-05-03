@@ -10,9 +10,9 @@ redirect_from:
 
 I am a first-year Master's student at [Columbia University](https://www.columbia.edu/), and I am honored to conduct research under the guidance of [Dr. Junfeng Yang](https://www.cs.columbia.edu/~junfeng/) at Columbia University, I focus on *AI safety* and *LLM reasoning*. At New York University, advised by [Chen Feng](https://scholar.google.com/citations?user=YeG8ZM0AAAAJ&hl=en), I work on *Robot Learning*. At the University of Virginia with [Lehan Yang](https://bio.lehanyang.info/), I study diffusion models to *build world models*.  
 
-My goal is to build **General-Purpose Robotics** and Grant human beings infinite lifespan through BCI. How can we make robots we see every day, as helpful assistants in every home for everyone? How can we upload our souls to clouds? 
+My goal is to build **General-Purpose Robotics** and Grant human beings infinite lifespan through BCI. How can we make robots as helpful assistants in every home? How can we upload our souls to clouds? 
 
-My research interests lie in the intersection of **Vision Language Models**,  **Robotics**, **Proactive AI Agent**, and **Neuroscience**. Additionally, I have gained valuable industry experience as a Deep Learning Algorithm Engineer Intern at both [TikTok](https://www.tiktok.com/) and [JD.com](https://www.jd.com/). In addition, I am also the author of the popular book *Learn Android Development from Zero*, and have founded multiple start-up companies.
+My research interests lie in the intersection of **Foundation Models**,  **Robotics**, **Proactive AI Agent**, and **Neuroscience**. Additionally, I have gained valuable industry experience as a Deep Learning Algorithm Engineer Intern at both [TikTok](https://www.tiktok.com/) and [JD.com](https://www.jd.com/). In addition, I am also the author of the popular book *Learn Android Development from Zero*, and have founded multiple start-up companies.
 
 Research Direction
 ======
