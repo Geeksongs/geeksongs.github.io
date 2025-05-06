@@ -38,7 +38,7 @@ Book
 
 <br>
 
-Ongoing Project
+Ongoing Projects
 ======
 <div style="display: flex; align-items: center; justify-content: flex-start; flex-wrap: nowrap; min-width: 500px;">
   <img src="https://github.com/Geeksongs/geeksongs.github.io/raw/master/images/captcha.jpeg" alt="VRMDiff"
