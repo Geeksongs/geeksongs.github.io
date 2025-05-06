@@ -41,7 +41,7 @@ Book
 Ongoing Project
 ======
 <div style="display: flex; align-items: center; justify-content: flex-start; flex-wrap: nowrap; min-width: 500px;">
-  <img src="https://github.com/Geeksongs/geeksongs.github.io/raw/master/images/captcha.png" alt="VRMDiff"
+  <img src="https://github.com/Geeksongs/geeksongs.github.io/raw/master/images/captcha.jpeg" alt="VRMDiff"
     style="height: 180px; width: auto; max-width: 200px; flex-shrink: 0; margin-right: 20px; object-fit: contain;" />
   <div style="width: calc(100% - 220px); text-align: left;">
     <h3 style="margin-top: 0;"><strong>Visual-Action PAD: Visual Chain of Thought for CAPTCHA Solving via Multimodal Model Alignment</strong></h3>
@@ -51,7 +51,7 @@ Ongoing Project
 
 
 <div style="display: flex; align-items: center; justify-content: flex-start; flex-wrap: nowrap; min-width: 500px;">
-  <img src="https://github.com/Geeksongs/geeksongs.github.io/raw/master/images/robot.png" alt="VRMDiff"
+  <img src="https://github.com/Geeksongs/geeksongs.github.io/raw/master/images/robot.jpeg" alt="VRMDiff"
     style="height: 180px; width: auto; max-width: 200px; flex-shrink: 0; margin-right: 20px; object-fit: contain;" />
   <div style="width: calc(100% - 220px); text-align: left;">
     <h3 style="margin-top: 0;"><strong>Seeing from Afar: Enhancing Dexterous Hand Control with Exocentric World Models</strong></h3>
