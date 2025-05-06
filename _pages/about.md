@@ -38,6 +38,37 @@ Book
 
 <br>
 
+Ongoing Project
+======
+<div style="display: flex; align-items: center; justify-content: flex-start; flex-wrap: nowrap; min-width: 500px;">
+  <img src="https://github.com/Geeksongs/geeksongs.github.io/raw/master/images/captcha.png" alt="VRMDiff"
+    style="height: 180px; width: auto; max-width: 200px; flex-shrink: 0; margin-right: 20px; object-fit: contain;" />
+  <div style="width: calc(100% - 220px); text-align: left;">
+    <h3 style="margin-top: 0;"><strong>Visual-Action PAD: Visual Chain of Thought for CAPTCHA Solving via Multimodal Model Alignment</strong></h3>
+    <p style="font-size: 14px; margin-bottom: 5px;">I have designed a vision-language model for reasoning to solve CAPTCHAs, achieving state-of-the-art performance and ranking Number 1 in the world. This is also the first System that can crack all kinds of Captchas full automatically with strong Generalizability</p>
+  </div>
+</div>
+
+
+<div style="display: flex; align-items: center; justify-content: flex-start; flex-wrap: nowrap; min-width: 500px;">
+  <img src="https://github.com/Geeksongs/geeksongs.github.io/raw/master/images/robot.png" alt="VRMDiff"
+    style="height: 180px; width: auto; max-width: 200px; flex-shrink: 0; margin-right: 20px; object-fit: contain;" />
+  <div style="width: calc(100% - 220px); text-align: left;">
+    <h3 style="margin-top: 0;"><strong>Seeing from Afar: Enhancing Dexterous Hand Control with Exocentric World Models</strong></h3>
+    <p style="font-size: 14px; margin-bottom: 5px;">We are using world model to enhance the capability the dexterous Hand</p>
+  </div>
+</div>
+
+
+<div style="display: flex; align-items: center; justify-content: flex-start; flex-wrap: nowrap; min-width: 500px;">
+  <img src="https://github.com/Geeksongs/geeksongs.github.io/raw/master/images/aiagent.png" alt="VRMDiff"
+    style="height: 180px; width: auto; max-width: 200px; flex-shrink: 0; margin-right: 20px; object-fit: contain;" />
+  <div style="width: calc(100% - 220px); text-align: left;">
+    <h3 style="margin-top: 0;"><strong>Proactive AI Agent</strong></h3>
+    <p style="font-size: 14px; margin-bottom: 5px;">Building the first generation of proactive AI agents in the world that don’t just respond, but initiate. Powered by Reinforcement Learning and LLMs, our agents can engage, lead, and act.</p>
+  </div>
+</div>
+
 
 Publication
 ======
