@@ -13,7 +13,7 @@ I am a first-year Master's student at [Columbia University](https://www.columbia
 My goal is to build **General-Purpose Robotics** and Grant human beings infinite lifespan through BCI. How can we make robots as helpful assistants in every home? How can we upload our souls to clouds? I will lead humanity to achieve this, no matter the cost. Don’t be afraid —  **We are destined to succeed**!
  
 
-My research interests lie in the intersection of **Foundation Models**,  **Robotics**, **Proactive AI Agent**, and **Neuroscience**. Additionally, I have gained valuable industry experience as a Deep Learning Algorithm Engineer Intern at both [TikTok](https://www.tiktok.com/) and [JD.com](https://www.jd.com/). In addition, I am also the author of the popular book *Learn Android Development from Zero*, and have founded multiple start-up companies.
+My research interests lie in the intersection of **Foundation Models**,  **Robotics**, **Proactive AI Agent**, and **Neuroscience**. Additionally, I have gained valuable industry experience as a Deep Learning Algorithm Engineer Intern at both [TikTok](https://www.tiktok.com/) and [JD.com](https://www.jd.com/). In addition, I am also the author of the popular book *Learn Android Development from Zero*, and have founded multiple start-up companies, my MBTI is ENTJ.
 
 Research Direction
 ======
