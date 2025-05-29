@@ -66,7 +66,7 @@ Ongoing Projects
     style="height: 180px; width: auto; max-width: 200px; flex-shrink: 0; margin-right: 20px; object-fit: contain;" />
   <div style="width: calc(100% - 220px); text-align: left;">
     <h3 style="margin-top: 0;" > <a href="https://geeksongs.github.io/NeuroAurora/" target="_blank"><strong>NeuroAurora: A Benchmark for Proactive Multimodal Agents with Life-Long Memory and Exocentric Perception</strong></a></h3>
-    <p style="font-size: 14px; margin-bottom: 5px;">We introduce the first multimodal dataset with exocentric video recordings specifically designed to support Proactive AI agents.</p>
+    <p style="font-size: 14px; margin-bottom: 5px;">We introduce the world first multimodal dataset with exocentric video recordings specifically designed to support Proactive AI agents.</p>
   </div>
 </div>
 
