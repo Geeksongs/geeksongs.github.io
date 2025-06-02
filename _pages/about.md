@@ -30,7 +30,7 @@ Research Direction
    <li><strong>[2025-06-01]</strong> I am included on the 
   <a href="https://studentadmincomms.sydney.edu.au/link/id/zzzz6839191310057843Pzzzz660ce23df39ec316/page.html" target="_blank">University of Sydney Prizes and Honour Roll</a> 🎉 
  in University official website!</li>
-  <li><strong>[2025-05-25]</strong> I have released the NeuroAurora Dataset🔥🔥, the first Proactive AI datasets with exocentric videos!</li>
+  <li><strong>[2025-05-25]</strong> I have released the NeuroAurora Dataset🔥🔥, the first Proactive AI datasets with exocentric videos in the world!</li>
 </ul>
 
 
