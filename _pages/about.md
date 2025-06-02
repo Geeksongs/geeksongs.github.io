@@ -123,6 +123,7 @@ Publication
 
 Honor 
 ======
+- University of Sydney Prizes and Honour Roll
 - Highest Honor Graduate Student with **First-Class Honour** at the University of Sydney (**Top 1%**)
 - National High School Physics Olympiad: **National First-Prize** (**Top 0.01%**)
 - CCF Big Data and Computing Intelligence Contest: **Top 2%**
