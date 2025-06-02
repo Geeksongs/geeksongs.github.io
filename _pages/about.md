@@ -10,10 +10,9 @@ redirect_from:
 
 I am a first-year Master's student at [Columbia University](https://www.columbia.edu/), and I am honored to conduct research under the guidance of [Dr. Junfeng Yang](https://www.cs.columbia.edu/~junfeng/) at Columbia University, I focus on *AI safety* and *LLM reasoning*. At New York University, advised by [Chen Feng](https://scholar.google.com/citations?user=YeG8ZM0AAAAJ&hl=en), I work on *Robot Learning*. At the University of Virginia with [Lehan Yang](https://bio.lehanyang.info/), I study diffusion models to *build world models*.  
 
-My goal is to build **General-Purpose Robotics** and Grant human beings infinite lifespan through BCI. How can we make robots as helpful assistants in every home? How can we upload our souls to clouds? I will lead humanity to achieve this, no matter the cost. Don’t be afraid —  **We are destined to succeed**!
- 
+My goal is to build **General-Purpose Robotics** and Grant human beings infinite lifespan. Don’t be afraid —  **We are destined to succeed**!
 
-My research interests lie in the intersection of **Foundation Models**,  **Robotics**, **Proactive AI Agent**, and **Neuroscience**. Additionally, I have gained valuable industry experience as a Deep Learning Algorithm Engineer Intern at both [TikTok](https://www.tiktok.com/) and [JD.com](https://www.jd.com/). In addition, I am also the author of the popular book *Learn Android Development from Zero*, and have founded multiple start-up companies, my MBTI is ENTJ.
+My research interests lie in the intersection of **Foundation Models**,  **Robotics**, **Proactive AI Agent**, and **Neuroscience**. Additionally, I have gained valuable industry experience as a Deep Learning Algorithm Engineer Intern at both [TikTok](https://www.tiktok.com/) and [JD.com](https://www.jd.com/). In addition, I am also the author of the popular book *Learn Android Development from Zero*, and have founded multiple start-up companies.
 
 Research Direction
 ======
@@ -22,6 +21,16 @@ Research Direction
      alt="Research Direction" 
      style="height: 500px; width: auto; display: block; margin: 0 auto;" />
 
+
+
+<!-- 红色 News 标题 -->
+<h2 style="color: red;">News</h2>
+
+<ul>
+   <li><strong>[2025-06-01]</strong> I am included on the 
+  <a href="https://studentadmincomms.sydney.edu.au/link/id/zzzz6839191310057843Pzzzz660ce23df39ec316/page.html" target="_blank">University of Sydney Prizes and Honour Roll</a> 🎉</li>
+  <li><strong>[2025-05-25]</strong> I have released the NeuroAurora dataset🔥🔥, the first Proactive AI datasets with exocentric videos!</li>
+</ul>
 
 
 
@@ -66,7 +75,7 @@ Ongoing Projects
     style="height: 180px; width: auto; max-width: 200px; flex-shrink: 0; margin-right: 20px; object-fit: contain;" />
   <div style="width: calc(100% - 220px); text-align: left;">
     <h3 style="margin-top: 0;" > <a href="https://geeksongs.github.io/NeuroAurora/" target="_blank"><strong>NeuroAurora: A Benchmark for Proactive Multimodal Agents with Life-Long Memory and Exocentric Perception</strong></a></h3>
-    <p style="font-size: 14px; margin-bottom: 5px;">We introduce the world first multimodal dataset with exocentric video recordings specifically designed to support Proactive AI agents.</p>
+    <p style="font-size: 14px; margin-bottom: 5px;">We introduce the world first multimodal dataset with exocentric video specifically designed to support Proactive AI agents.</p>
   </div>
 </div>
 
