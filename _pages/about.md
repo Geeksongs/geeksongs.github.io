@@ -36,7 +36,7 @@ Beyond research, I have interned at an investment bank. I am also the author of 
 
 <div style="border: 2px solid #d62828; background-color: #fff5f5; padding: 20px; border-radius: 10px; margin: 20px 0; color: #000;">
   <p style="margin: 0 0 12px 0; color: #b00020; font-weight: bold; font-size: 1.1em;">
-    Research Opportunities
+    Research Opportunities⭐⭐⭐
   </p>
 
   <p style="margin: 0 0 12px 0; color: #000;">
