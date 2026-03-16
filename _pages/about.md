@@ -27,8 +27,13 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a master’s student at Columbia University, where I dived into AI and Financial Engineering, advised by Professor Junfeng Yang.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My research interests lie in robot learning, foundation models, and AI for science. My research goal is to advance the general-purpose robots. How can we build a robot with self-consciousness? I am also interested in leveraging AI for Anti-Aging research, with the ambition of pushing the limit of human lifespan.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I have had the privilege of conducting research on asynchronous robot inference with Research Scientists Siddharth Ancha at UC Berkeley and Ajay Mandlekar at NVIDIA. Previously, I conducted research under the guidance of Chen Feng at NYU and .
+
+Beyond research, I have interned at an investment bank. I am also the author of a nationally bestselling book on JD.com and currently the Founder of Bio Genesis Lab.
+
+In my spare time, I enjoy trading, Texas Poker, magic shows, hiking, tennis, and the gym.
+
