@@ -27,17 +27,10 @@ latest_posts:
 ---
 
 I am a master’s student at Columbia University, where I dived into AI and Financial Engineering, advised by Professor Junfeng Yang.
-
-My research interests lie in robot learning, foundation models, and AI for science. 
+My research interests lie in robot learning, foundation models, and AI for science:
 <p><strong>Robot Learning:</strong> World models and reinforcement learning for robots and dexterous manipulation. </p>
-
 <p><strong>Foundation Models:</strong> Researching reasoning in vision-language models and building next-generation AI with the long-term goal of developing self-consciousness. </p>
-
 <p><strong>AI for Science:</strong> AI-driven drug discovery and anti-aging research push the limits of human lifespan. </p>
-
 I have had the privilege of conducting research on asynchronous robot inference with Research Scientists Siddharth Ancha at UC Berkeley and Ajay Mandlekar at NVIDIA. Previously, I conducted research under the guidance of Chen Feng at NYU and Jesse Thomason at USC.
-
-Beyond research, I have interned at an investment bank. I am also the author of a nationally bestselling book on JD.com and currently the Founder of Bio Genesis Lab.
-
-In my spare time, I enjoy trading, Texas Poker, magic shows, hiking, tennis, and the gym.
+Beyond research, I have interned at an investment bank. I am also the author of a nationally bestselling book on JD.com and currently the Founder of Bio Genesis Lab. In my spare time, I enjoy trading, Texas Poker, magic shows, hiking, tennis, and the gym.
 
