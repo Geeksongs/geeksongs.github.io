@@ -40,7 +40,7 @@ Beyond research, I have interned at an investment bank. I am also the author of 
   </p>
 
   <p style="margin: 0 0 12px 0; color: #000;">
-    I am currently seeking <strong>research interns</strong> and recruiting <strong>self-motivated undergraduate and master's students</strong> to work with me on <strong>robot learning</strong> and <strong>world models</strong>.
+    I am currently seeking <strong>research interns</strong> and recruiting <strong>self-motivated undergraduate and master's students</strong> at any level to work with me on <strong>robot learning</strong> and <strong>world models</strong>.
   </p>
 
   <p style="margin: 0 0 12px 0; color: #000;">
