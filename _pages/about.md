@@ -44,7 +44,7 @@ Beyond research, I have interned at an investment bank. I am also the author of 
   </p>
 
   <p style="margin: 0 0 12px 0; color: #000;">
-    <strong>Bio Gnesis Lab</strong>, my research institute, is also actively seeking collaborations. Let us work together to use <strong>AI</strong> and <strong>biology</strong> to decode the laws of life and push the boundary of human longevity. I can provide <strong>unlimited GPU resources</strong> to support our ambitious research projects.
+    <strong>Bio Gnesis Lab</strong>, my research institute, is also actively seeking collaborations. Let us work together to use <strong>AI</strong> and <strong>biology</strong> to decode the laws of life and push the boundary of human longevity. I can provide <strong>unlimited GPU resources</strong> to support your ambitious research goal.
   </p>
 </div>
 
