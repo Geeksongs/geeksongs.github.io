@@ -34,20 +34,17 @@ My research interests lie in robot learning, foundation models, and AI for scien
 I have had the privilege of conducting research on asynchronous robot inference with Research Scientists Siddharth Ancha at UC Berkeley and Ajay Mandlekar at NVIDIA. Previously, I conducted research under the guidance of Chen Feng at NYU and Jesse Thomason at USC.
 Beyond research, I have interned at an investment bank. I am also the author of a nationally bestselling book on JD.com and currently the Founder of Bio Genesis Lab. In my spare time, I enjoy trading, Texas Poker, magic shows, hiking, tennis, and the gym.
 
-<div style="border: 2px solid #d62828; background-color: #fff5f5; padding: 20px; border-radius: 10px; margin: 20px 0;">
+<div style="border: 2px solid #d62828; background-color: #fff5f5; padding: 20px; border-radius: 10px; margin: 20px 0; color: #000;">
   <p style="margin: 0 0 12px 0; color: #b00020; font-weight: bold; font-size: 1.1em;">
     Research Opportunities
   </p>
 
-  <p style="margin: 0 0 12px 0;">
-    I am currently seeking <strong>research interns</strong> and recruiting <strong>self-motivated students</strong> to work with me on <strong>robot learning</strong> and <strong>world models</strong>.
+  <p style="margin: 0 0 12px 0; color: #000;">
+    I am currently seeking <strong>research interns</strong> and recruiting <strong>self-motivated undergraduate and master's students</strong> to work with me on <strong>robot learning</strong> and <strong>world models</strong>.
   </p>
 
-  <p style="margin: 0 0 12px 0;">
-     <strong>Bio Gnesis Lab</strong>, my research institute, is also actively seeking collaborations. Let us work together to use <strong>AI</strong> and <strong>biology</strong> to decode the laws of life and push the boundary of human longevity.
-
-  <p style="margin: 0;">
-    I can provide <strong>unlimited GPU resources</strong> to support our ambitious research projects.
+  <p style="margin: 0 0 12px 0; color: #000;">
+    <strong>Bio Gnesis Lab</strong>, my research institute, is also actively seeking collaborations. Let us work together to use <strong>AI</strong> and <strong>biology</strong> to decode the laws of life and push the boundary of human longevity. I can provide <strong>unlimited GPU resources</strong> to support our ambitious research projects.
   </p>
 </div>
 
