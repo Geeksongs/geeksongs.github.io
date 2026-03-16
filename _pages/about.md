@@ -40,11 +40,11 @@ Beyond research, I have interned at an investment bank. I am also the author of 
   </p>
 
   <p style="margin: 0 0 12px 0; color: #000;">
-    I am currently seeking <strong>research interns</strong> and recruiting <strong>self-motivated undergraduate and master's students</strong> at any level to work with me on <strong>robot learning</strong> and <strong>world models</strong>.
+    I am currently seeking <strong style="color: #b00020;">research interns</strong> and recruiting <strong style="color: #b00020;">self-motivated students at any level</strong> to work with me on <strong style="color: #b00020;">robot learning</strong> and <strong style="color: #b00020;">world models</strong>.
   </p>
 
   <p style="margin: 0 0 12px 0; color: #000;">
-    <strong>Bio Genesis Lab</strong>, my research institute, is also actively seeking collaborations. Let us work together to use <strong>AI</strong> and <strong>biology</strong> to decode the laws of life and push the boundary of human longevity. I can provide <strong>unlimited GPU resources</strong> to support your ambitious research goal.
+    <strong style="color: #b00020;">Bio Genesis Lab</strong>, my research institute, is also actively seeking collaborations. Let us work together to use <strong style="color: #b00020;">AI</strong> and <strong style="color: #b00020;">biology</strong> to decode the laws of life and push the boundary of human longevity. I can provide <strong style="color: #b00020;">unlimited GPU resources</strong> to support your ambitious research goal.
   </p>
 </div>
 
