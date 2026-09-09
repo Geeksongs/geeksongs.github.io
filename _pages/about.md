@@ -32,8 +32,7 @@ latest_posts:
 I graduated with a master's degree from Columbia University. My research interests lie in robot learning, foundation models, and AI for science:
 <p><strong>Robot Learning:</strong> I study world models and reinforcement learning to push toward the ChatGPT moment for robotics, with the goal of uncovering scaling laws for robot learning and enabling more general, and dexterous robot intelligence. </p>
 <p><strong>Foundation Models:</strong> Researching reasoning in vision-language models and building next-generation AI with the long-term goal of developing self-consciousness. </p>
-I have had the privilege of conducting research on robot learning with Research Scientists <a href="https://siddancha.github.io/" target="_blank">Siddharth Ancha</a> at UC Berkeley and <a href="https://ai.stanford.edu/~amandlek/" target="_blank">Ajay Mandlekar</a> at NVIDIA. Previously, I conducted research under the guidance of <a href="https://jessethomason.com/" target="_blank">Prof. Jesse Thomason</a> at Georgia Tech, and <a href="https://www.cs.columbia.edu/~junfeng/" target="_blank">Prof. Junfeng Yang</a> and <a href="https://lsl.zone/" target="_blank">Prof. Shilong Liu</a> at Columbia.
-Beyond research, I have founded several companies. I am also the author of a nationally bestselling book and currently the Founder of <a href="https://generalreasoninglab.vercel.app/" target="_blank">General Reasoning Lab</a>. In my spare time, I enjoy trading, Texas Poker, magic shows, hiking, tennis, and the gym.
+I conducted research under the guidance of <a href="https://jessethomason.com/" target="_blank">Prof. Jesse Thomason</a> at Georgia Tech, and <a href="https://www.cs.columbia.edu/~junfeng/" target="_blank">Prof. Junfeng Yang</a> and <a href="https://lsl.zone/" target="_blank">Prof. Shilong Liu</a> at Columbia. I have also had the privilege of conducting research on robot learning with Research Scientists <a href="https://siddancha.github.io/" target="_blank">Siddharth Ancha</a> at UC Berkeley and <a href="https://ai.stanford.edu/~amandlek/" target="_blank">Ajay Mandlekar</a> at NVIDIA.
 
 <style>
   .interest-card {
@@ -121,7 +120,11 @@ Beyond research, I have founded several companies. I am also the author of a nat
   </p>
 
   <p style="margin: 0; color: #000;">
-    I am currently recruiting <strong style="color: #b00020;">self-motivated students at any level</strong> to work with me and my collaborators at <strong style="color: #b00020;">Meta Superintelligence Lab / NVIDIA / Amazon / Anthropic / Columbia / UC Berkeley / Stanford, etc.</strong> on <strong style="color: #b00020;">robot learning</strong> and <strong style="color: #b00020;">world models</strong>.
+    I am currently recruiting <strong style="color: #b00020;">self-motivated undergraduate</strong> / <strong style="color: #b00020;">master's students</strong> to work with me and my collaborators at <strong style="color: #b00020;">Meta Superintelligence Lab / NVIDIA / Amazon / Anthropic / Columbia / UC Berkeley / Stanford, etc.</strong> on <strong style="color: #b00020;">superintelligence</strong>, <strong style="color: #b00020;">robot learning</strong>, and <strong style="color: #b00020;">world models</strong>.
+  </p>
+
+  <p style="margin: 12px 0 0 0; color: #000;">
+    Students I have mentored have gone on to a variety of paths: in academia, some are now pursuing PhDs at <strong style="color: #b00020;">Peking</strong> / <strong style="color: #b00020;">Tsinghua University</strong>; in industry, others have joined <strong style="color: #b00020;">TikTok</strong> / <strong style="color: #b00020;">MiniMax</strong> / <strong style="color: #b00020;">DeepSeek</strong> as <strong style="color: #b00020;">Senior Research Scientists</strong>.
   </p>
 </div>
 
