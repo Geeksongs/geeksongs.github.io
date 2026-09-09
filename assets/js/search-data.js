@@ -440,16 +440,19 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
-          description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+            },},{id: "news-i-work-as-pi-for-the-project-quot-long-horizon-proactive-general-reasoning-agent-quot",
+          title: 'I work as PI for the project &amp;quot;Long-horizon Proactive General Reasoning Agent&amp;quot;',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+            },},{id: "news-i-received-the-icml-silver-reviewer-award-sparkles-smile",
+          title: 'I received the ICML Silver Reviewer Award! :sparkles: :smile:',
+          description: "",
+          section: "News",},{id: "news-my-newly-developed-embodied-learning-method-achieves-sota-performance-on-robocasa-365-libero-pro-robomimic-surpassing-the-xiaomi-team-and-physical-intelligence-robot-tada",
+          title: 'My newly developed Embodied Learning method achieves SOTA performance on RoboCasa-365 / LIBERO-Pro...',
+          description: "",
+          section: "News",},{id: "news-my-first-author-paper-in-which-i-pioneered-a-new-learning-paradigm-called-proactive-learning-has-been-accepted-to-the-emnlp-main-conference-acceptance-rate-15-tada-sparkles",
+          title: 'My first-author paper, in which I pioneered a new learning paradigm called Proactive...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
