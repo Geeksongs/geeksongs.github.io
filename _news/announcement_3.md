@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I received the ICML Silver Reviewer Award! :sparkles: :smile:
+I received the <span style="color: #b00020;">ICML Silver Reviewer Award</span>! :sparkles: :smile:

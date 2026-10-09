@@ -1396,8 +1396,19 @@ html:not([data-theme="dark"]) body.home-page #navbar {
   }
 
   .visitor-map-widget {
-    display: flex;
-    justify-content: center;
+    display: block;
+    width: min(650px, 100%);
+    margin: 0 auto;
+    overflow: hidden;
+
+    > *,
+    img,
+    iframe,
+    canvas {
+      max-width: 100%;
+      margin-left: auto !important;
+      margin-right: auto !important;
+    }
   }
 }
 
@@ -1409,4 +1420,8 @@ html[data-theme="dark"] .news .news-body span[style*="#b00020"] {
 .research-experience .research-description strong,
 .research-experience .research-bullets strong {
   font-weight: 800;
+}
+
+.news .news-body span[style*="#b00020"] {
+  font-weight: 700;
 }
