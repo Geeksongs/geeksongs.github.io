@@ -1,6 +1,6 @@
 ---
 ---
-<div class="row publication-entry" data-publication-category="{{ entry.category | escape }}">
+<div class="row publication-entry{% unless entry.preview %} no-preview{% endunless %}" data-publication-category="{{ entry.category | escape }}">
   {% if site.enable_publication_thumbnails %}
     <div class="col col-sm-2 abbr publication-figure">
       {%- if entry.abbr -%}

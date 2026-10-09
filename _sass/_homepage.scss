@@ -1287,3 +1287,11 @@ html:not([data-theme="dark"]) body.home-page #navbar {
   color: #d6284f;
   font-weight: 800;
 }
+
+.publications ol.bibliography > li .publication-entry.no-preview {
+  grid-template-columns: minmax(0, 1fr);
+
+  .publication-figure {
+    display: none;
+  }
+}

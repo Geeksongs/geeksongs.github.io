@@ -37,14 +37,14 @@ latest_posts:
 
     <p>
       I graduated with a master's degree from <a href="https://www.columbia.edu/">Columbia University</a>. My research spans
-      <strong class="research-key">foundation models, world models, robot learning, AI for science, and AGI</strong>:
+      <strong class="research-key">foundation models, world models, robot learning, AI for science, and True AGI</strong>:
     </p>
 
     <ul>
       <li><strong class="research-key">Foundation Models &amp; World Models:</strong> In my first-author work, I led the development of the largest world model designed for <strong class="research-key">Proactive AI</strong>, enabling agents to anticipate future states and proactively learn from interaction. This work was accepted as an <strong class="research-key">EMNLP Oral (top ~1%)</strong>.</li>
       <li><strong class="research-key">Robot Learning:</strong> I developed a robot learning framework that evolves itself and achieves #1 performance on both LIBERO-Pro and RoboCasa365, surpassing results from the robotics company <strong class="research-key">Physical Intelligence</strong> on two challenging benchmarks for robot generalization.</li>
-      <li><strong class="research-key">AI for Science:</strong> Recently, I have also been exploring AI-driven scientific discovery. I <strong class="research-key">surpassed the previous world record on the three-color Pythagorean triples problem</strong> and produced a <strong class="research-key">first proof for an open problem in number theory</strong>.</li>
-      <li><strong class="research-key">AGI:</strong> I am researching how to create digital life inside a computer: with no loss function, no ground-truth data, and no backpropagation, I use Darwinian evolution to create digital life with few-shot autonomous learning ability, opening a new route toward true AGI. The paper has been submitted to <strong class="research-key">Nature</strong>.</li>
+      <li><strong class="research-key">AI for Science:</strong> Recently, I have also been exploring AI-driven scientific discovery. I <strong class="research-key">surpassed the previous world record on the three-color Pythagorean triples problem</strong> and produced a <strong class="research-key">first proof for a notoriously hard open problem in number theory</strong>.</li>
+      <li><strong class="research-key">True AGI:</strong> I am researching how to create digital life inside a computer: with no loss function, no ground-truth data, and no backpropagation, I use Darwinian evolution to create digital life with few-shot autonomous learning ability, opening a new route toward true AGI. The paper has been submitted to <strong class="research-key">Nature</strong>.</li>
     </ul>
 
     <p>
@@ -57,7 +57,7 @@ latest_posts:
     <div class="phd-callout">
       <div class="phd-title">I am actively seeking Ph.D. opportunities for Fall 2027.</div>
       <div class="phd-description">
-        I am particularly interested in foundation models, world models, robot learning, AI for science, and AGI, with a focus on building agents that learn proactively and evolve on their own.
+        I am particularly interested in foundation models, world models, robot learning, AI for science, and True AGI, with a focus on building agents that learn proactively and evolve on their own.
       </div>
     </div>
 
