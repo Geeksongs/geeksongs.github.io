@@ -1400,11 +1400,25 @@ html:not([data-theme="dark"]) body.home-page #navbar {
   }
 
   .visitor-map-widget {
-    display: flex;
-    justify-content: center;
+    display: block;
     min-height: 0;
     padding-top: 0.75rem;
-    overflow: hidden;
+    border-top: 0;
+
+    > span {
+      display: block !important;
+      position: relative !important;
+      width: 645px !important;
+      max-width: 100%;
+      margin: 0 auto !important;
+    }
+
+    > span > img:first-child {
+      position: static !important;
+      display: block;
+      width: 100%;
+      height: auto;
+    }
   }
 }
 
