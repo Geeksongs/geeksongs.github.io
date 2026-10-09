@@ -273,28 +273,30 @@
 @media (min-width: 641px) {
   .research-experience.wide-dates {
     .research-entry {
-      grid-template-columns: 12.5rem 76px minmax(0, 1fr);
+      grid-template-columns: 12.5rem minmax(0, 1fr);
     }
 
-    .research-logo {
-      padding-top: 0.2rem;
-
-      img {
-        width: 76px;
-        height: 50px;
-        padding: 4px 6px;
-        object-fit: contain;
-        object-position: center center;
-        background-color: #fff;
-        border-radius: 4px;
-      }
+    .date-logo {
+      display: block;
+      width: 100%;
+      max-width: 165px;
+      margin-top: 0.7rem;
+      padding: 5px 8px;
+      background-color: #fff;
+      border-radius: 4px;
+      object-fit: contain;
     }
   }
 }
 
-@media (min-width: 641px) and (max-width: 850px) {
-  .research-experience.wide-dates .research-entry {
-    grid-template-columns: 10.5rem 76px minmax(0, 1fr);
+@media (max-width: 640px) {
+  .research-experience.wide-dates .date-logo {
+    display: block;
+    width: 150px;
+    margin-top: 0.5rem;
+    padding: 5px 8px;
+    background-color: #fff;
+    border-radius: 4px;
   }
 }
 
