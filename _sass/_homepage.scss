@@ -1386,7 +1386,11 @@ html:not([data-theme="dark"]) body.home-page #navbar {
 }
 
 .home-impact.home-impact-single {
-  max-width: none;
+  left: auto;
+  width: 100%;
+  max-width: 680px;
+  margin: 2rem auto 0.5rem;
+  transform: none;
 
   .impact-card {
     padding: 0;
@@ -1396,19 +1400,14 @@ html:not([data-theme="dark"]) body.home-page #navbar {
   }
 
   .visitor-map-widget {
-    display: block;
-    width: min(650px, 100%);
-    margin: 0 auto;
-
-    > span {
-      display: block;
-      position: relative;
-      left: 0 !important;
-      width: fit-content;
-      margin: 0 auto !important;
-    }
+    display: flex;
+    justify-content: center;
+    min-height: 0;
+    padding-top: 0.75rem;
+    overflow: hidden;
   }
 }
+
 
 html[data-theme="dark"] .news .news-body span[style*="#b00020"] {
   color: #ff6b81 !important;
