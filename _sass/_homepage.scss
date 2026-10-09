@@ -1277,3 +1277,8 @@ html:not([data-theme="dark"]) body.home-page #navbar {
     transition: none;
   }
 }
+
+.home-impact.home-impact-single {
+  grid-template-columns: minmax(0, 1fr);
+  max-width: 720px;
+}

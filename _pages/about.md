@@ -193,6 +193,8 @@ latest_posts:
   </section>
 </div>
 
+{% include homepage_impact.liquid %}
+
 </section>
 
 <nav class="home-contact-rail" aria-label="Quick contact links">
