@@ -1399,15 +1399,13 @@ html:not([data-theme="dark"]) body.home-page #navbar {
     display: block;
     width: min(650px, 100%);
     margin: 0 auto;
-    overflow: hidden;
 
-    > *,
-    img,
-    iframe,
-    canvas {
-      max-width: 100%;
-      margin-left: auto !important;
-      margin-right: auto !important;
+    > span {
+      display: block;
+      position: relative;
+      left: 0 !important;
+      width: fit-content;
+      margin: 0 auto !important;
     }
   }
 }
@@ -1423,5 +1421,5 @@ html[data-theme="dark"] .news .news-body span[style*="#b00020"] {
 }
 
 .news .news-body span[style*="#b00020"] {
-  font-weight: 700;
+  font-weight: 700 !important;
 }
