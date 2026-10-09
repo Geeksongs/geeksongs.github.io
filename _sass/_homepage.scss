@@ -1288,104 +1288,25 @@ html:not([data-theme="dark"]) body.home-page #navbar {
   font-weight: 600;
 }
 
-.publications ol.bibliography > li .publication-entry.no-preview {
-  grid-template-columns: minmax(0, 1fr);
-
-  .publication-figure {
-    display: none;
-  }
-}
-
-.home-hero .home-portrait {
-  .phd-callout {
-    margin: 1.4rem 0 0;
-    padding: 0.45rem 0 0.45rem 1rem;
-    border-left: 2px solid #e04b64;
-    font-size: 1.02rem;
-  }
-
-  .phd-title {
-    margin-bottom: 0.25rem;
-    color: #d6284f;
-    font-weight: 700;
-  }
-
-  .phd-description {
-    line-height: 1.6;
-  }
-}
-
-.home-hero .home-portrait .home-address {
+.publications ol.bibliography > li .publication-figure .preview-placeholder {
   display: flex;
-  align-items: flex-start;
+  flex-direction: column;
+  align-items: center;
   justify-content: center;
-  gap: 0.55rem;
-  margin: 0.9rem 0 0;
-  color: var(--global-text-color-light);
-  font-size: 1rem;
-  font-style: normal;
-  line-height: 1.5;
+  width: 100%;
+  aspect-ratio: 16 / 10;
+  border: 1px solid var(--global-divider-color);
+  border-radius: 8px;
+  background: linear-gradient(135deg, #fdf0f3 0%, #eef4fc 100%);
+  color: #d6284f;
+  font-size: 1.6rem;
+  font-weight: 700;
+  letter-spacing: 0.02em;
+  line-height: 1.2;
 
-  i {
-    margin-top: 0.2rem;
-    color: #d6284f;
+  small {
+    color: var(--global-text-color-light);
+    font-size: 0.85rem;
+    font-weight: 500;
   }
-}
-
-.news .news-list {
-  margin: 0;
-  padding: 0;
-  list-style: none;
-
-  .news-item {
-    display: grid;
-    grid-template-columns: 8.5rem minmax(0, 1fr);
-    column-gap: 1.25rem;
-    align-items: baseline;
-    padding: 0.8rem 0;
-    border-bottom: 1px solid var(--global-divider-color);
-
-    &:last-child {
-      border-bottom: 0;
-    }
-  }
-
-  .news-date {
-    color: var(--global-theme-color);
-    font-size: 0.95rem;
-    font-weight: 600;
-    font-variant-numeric: tabular-nums;
-    white-space: nowrap;
-  }
-
-  .news-body {
-    line-height: 1.6;
-  }
-}
-
-@media (max-width: 640px) {
-  .news .news-list .news-item {
-    grid-template-columns: minmax(0, 1fr);
-    row-gap: 0.15rem;
-  }
-}
-
-.home-impact.home-impact-single {
-  max-width: none;
-
-  .impact-card {
-    padding: 0;
-    border: 0;
-    background: transparent;
-    text-align: center;
-  }
-
-  .visitor-map-widget {
-    display: flex;
-    justify-content: center;
-  }
-}
-
-html[data-theme="dark"] .news .news-body span[style*="#b00020"] {
-  color: #ff6b81 !important;
 }

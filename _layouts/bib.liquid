@@ -1,6 +1,6 @@
 ---
 ---
-<div class="row publication-entry{% unless entry.preview %} no-preview{% endunless %}" data-publication-category="{{ entry.category | escape }}">
+<div class="row publication-entry" data-publication-category="{{ entry.category | escape }}">
   {% if site.enable_publication_thumbnails %}
     <div class="col col-sm-2 abbr publication-figure">
       {%- if entry.abbr -%}
@@ -25,6 +25,9 @@
           <abbr class="badge rounded w-100">{{ entry.abbr }}</abbr>
         {% endif %}
       {% endif %}
+      {% unless entry.preview %}
+        {% if entry.abbr %}<div class="preview-placeholder" aria-hidden="true">{{ entry.abbr }}<small>{{ entry.year }}</small></div>{% endif %}
+      {% endunless %}
       {% if entry.preview %}
         {% if entry.preview contains '://' %}
           <img class="preview z-depth-1 rounded" src="{{ entry.preview }}">
