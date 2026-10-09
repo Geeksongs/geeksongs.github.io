@@ -27,6 +27,11 @@ latest_posts:
   <div class="home-portrait">
     <img src="{{ '/assets/img/prof_pic.jpg' | relative_url }}" alt="Python Song">
 
+    <address class="home-address">
+      <i class="fa-solid fa-location-dot" aria-hidden="true"></i>
+      <span>San Francisco, CA 94105<br>USA</span>
+    </address>
+
     <div class="phd-callout">
       <div class="phd-title">I am actively seeking Ph.D. opportunities for Fall 2027.</div>
       <div class="phd-description">

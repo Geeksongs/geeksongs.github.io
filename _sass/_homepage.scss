@@ -1314,3 +1314,20 @@ html:not([data-theme="dark"]) body.home-page #navbar {
     line-height: 1.6;
   }
 }
+
+.home-hero .home-portrait .home-address {
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 0.55rem;
+  margin: 0.9rem 0 0;
+  color: var(--global-text-color-light);
+  font-size: 1rem;
+  font-style: normal;
+  line-height: 1.5;
+
+  i {
+    margin-top: 0.2rem;
+    color: #d6284f;
+  }
+}
