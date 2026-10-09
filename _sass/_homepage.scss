@@ -1427,7 +1427,8 @@ html:not([data-theme="dark"]) body.home-page #navbar {
   }
 
   .impact-action {
-    display: block;
+    align-self: center;
+    margin: 0.75rem auto 0;
     text-align: center;
   }
 }
