@@ -65,6 +65,10 @@ latest_posts:
       <a href="https://github.com/Geeksongs" target="_blank" rel="noopener noreferrer">
         <i class="fa-brands fa-github" aria-hidden="true"></i> GitHub
       </a>
+      <a href="https://blog.csdn.net/Geeksongs" target="_blank" rel="noopener noreferrer">
+        <i class="fa-solid fa-pen-nib" aria-hidden="true"></i> Blog
+      </a>
+      <a href="mailto:js6665@columbia.edu"> <i class="fa-solid fa-envelope" aria-hidden="true"></i> Email </a>
     </div>
   </div>
 </div>
@@ -85,9 +89,9 @@ latest_posts:
 
 </section>
 
-<section class="home-section-card" markdown="1" aria-labelledby="experience">
+<section class="home-section-card" markdown="1" aria-labelledby="professional-experience">
 
-## Research Experience {#experience}
+## Professional Experience {#professional-experience}
 
 {% include research_experience.liquid %}
 
@@ -106,6 +110,10 @@ latest_posts:
 {% include manuscripts_in_preparation.liquid %}
 
 [See all publications](/publications/)
+
+### Popular Book
+
+**Learn Android Development from Scratch (Chinese Edition)** · Python Song (sole author) · Mechanical Industry Press, 2022. A best-selling title that ranked 9th globally on the Programmers' Frequently-Read Books List on JD.com.
 
 </section>
 
@@ -150,26 +158,30 @@ latest_posts:
 ## Honors & Awards {#honors-awards}
 
 <div class="home-awards">
-  <section class="award-group" aria-labelledby="award-research">
-    <h3 id="award-research">Research Recognition</h3>
-    <div class="award-card">
-      <span class="award-icon"><i class="fa-solid fa-trophy" aria-hidden="true"></i></span>
-      <div><h4>EMNLP 2026 Oral (Top ~1%)</h4><p>ProactiveEngine · 2026</p></div>
-    </div>
-    <div class="award-card">
-      <span class="award-icon"><i class="fa-solid fa-robot" aria-hidden="true"></i></span>
-      <div><h4>#1 on LIBERO-Pro and RoboCasa365</h4><p>Surpassing Physical Intelligence · 2026</p></div>
-    </div>
-  </section>
-  <section class="award-group" aria-labelledby="award-academic">
-    <h3 id="award-academic">Academic</h3>
+  <section class="award-group" aria-labelledby="award-scholarships">
+    <h3 id="award-scholarships">Scholarships &amp; Honors</h3>
     <div class="award-card">
       <span class="award-icon"><i class="fa-solid fa-award" aria-hidden="true"></i></span>
-      <div><h4>ICML 2026 Silver Reviewer Award</h4><p>2026</p></div>
+      <div><h4>Silver Reviewer Award, ICML</h4><p>2026</p></div>
+    </div>
+    <div class="award-card">
+      <span class="award-icon"><i class="fa-solid fa-trophy" aria-hidden="true"></i></span>
+      <div><h4>EMNLP 2026 Oral (Top 1%)</h4><p>Proactive Learning with Lifelong Memory via World Models · 2026</p></div>
     </div>
     <div class="award-card">
       <span class="award-icon"><i class="fa-solid fa-graduation-cap" aria-hidden="true"></i></span>
-      <div><h4>First Class Honours, Graduated with Highest Distinction</h4><p>University of Sydney · Top 1% of students · 2024</p></div>
+      <div><h4>Dalyell Scholar</h4><p>University of Sydney · 2022</p></div>
+    </div>
+  </section>
+  <section class="award-group" aria-labelledby="award-competitions">
+    <h3 id="award-competitions">Competitions</h3>
+    <div class="award-card">
+      <span class="award-icon"><i class="fa-solid fa-chart-line" aria-hidden="true"></i></span>
+      <div><h4>CCF Big Data and Computing Intelligence Contest: Top 2%</h4><p>2021</p></div>
+    </div>
+    <div class="award-card">
+      <span class="award-icon"><i class="fa-solid fa-atom" aria-hidden="true"></i></span>
+      <div><h4>National High School Physics Olympiad: National First-Prize (Top 0.01%)</h4><p>2018</p></div>
     </div>
   </section>
 </div>
@@ -185,10 +197,10 @@ latest_posts:
     <span class="service-icon"><i class="fa-solid fa-user-check" aria-hidden="true"></i></span>
     <h3 id="conference-reviewing">Conference Reviewing</h3>
     <ul class="service-venues" aria-label="Reviewed conferences">
-      <li><strong>ICML</strong><span>2026 · Silver Reviewer</span></li>
+      <li><strong>AAAI</strong><span>2025–2026</span></li>
       <li><strong>NeurIPS</strong><span>2026</span></li>
-      <li><strong>ICLR</strong><span>2025</span></li>
-      <li><strong>AAAI</strong><span>2025</span></li>
+      <li><strong>ICML</strong><span>2026 · Silver Reviewer</span></li>
+      <li><strong>ICLR</strong><span>2027</span></li>
     </ul>
   </section>
 </div>
@@ -198,6 +210,7 @@ latest_posts:
 </section>
 
 <nav class="home-contact-rail" aria-label="Quick contact links">
+  <a href="mailto:js6665@columbia.edu" aria-label="Email" title="Email"><i class="fa-solid fa-envelope" aria-hidden="true"></i></a>
   <a href="https://github.com/Geeksongs" target="_blank" rel="noopener noreferrer" aria-label="GitHub" title="GitHub"><i class="fa-brands fa-github" aria-hidden="true"></i></a>
 </nav>
 
