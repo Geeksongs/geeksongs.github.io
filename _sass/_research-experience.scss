@@ -297,3 +297,11 @@
     grid-template-columns: 10.5rem 76px minmax(0, 1fr);
   }
 }
+
+.research-experience .research-entry:last-child {
+  padding-bottom: 0.35rem;
+}
+
+.research-experience .research-entry:first-child {
+  padding-top: 1rem;
+}
