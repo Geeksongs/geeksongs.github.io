@@ -395,7 +395,7 @@ ninja.data = [{
           section: "News",},{id: "news-my-newly-developed-embodied-learning-method-achieves-sota-performance-on-robocasa-365-libero-pro-robomimic-surpassing-the-xiaomi-team-and-physical-intelligence-robot-tada",
           title: 'My newly developed Embodied Learning method achieves SOTA performance on RoboCasa-365 / LIBERO-Pro...',
           description: "",
-          section: "News",},{id: "news-my-first-author-paper-in-which-i-pioneered-a-new-learning-paradigm-called-proactive-learning-has-been-accepted-to-the-emnlp-main-conference-acceptance-rate-15-tada-sparkles",
+          section: "News",},{id: "news-my-first-author-paper-in-which-i-pioneered-a-new-learning-paradigm-called-proactive-learning-has-been-accepted-to-the-emnlp-main-conference-as-an-oral-top-1-tada-sparkles",
           title: 'My first-author paper, in which I pioneered a new learning paradigm called Proactive...',
           description: "",
           section: "News",},{id: "projects-project-1",
