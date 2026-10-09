@@ -48,7 +48,9 @@
   <!-- Entry bib key -->
   <div id="{{ entry.key }}" class="publication-content {% if site.enable_publication_thumbnails %}col-sm-8{% else %}col-sm-10{% endif %}">
     <!-- Title -->
-    <div class="title">{{ entry.title }}</div>
+    {% assign title_link = entry.website | default: entry.html | default: entry.pdf %}
+    {% if entry.arxiv %}{% capture title_link %}https://arxiv.org/abs/{{ entry.arxiv }}{% endcapture %}{% endif %}
+    <div class="title">{% if title_link != blank and title_link contains '://' %}<a href="{{ title_link }}" target="_blank" rel="noopener noreferrer">{{ entry.title }}</a>{% else %}{{ entry.title }}{% endif %}</div>
     <!-- Author -->
     <div class="author">
       {% assign author_array_size = entry.author_array | size %}
