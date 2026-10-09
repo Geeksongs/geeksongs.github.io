@@ -55,9 +55,9 @@ latest_posts:
     </p>
 
     <div class="phd-callout">
-      <div class="phd-title">Research Opportunities</div>
+      <div class="phd-title">I am actively seeking Ph.D. opportunities for Fall 2027.</div>
       <div class="phd-description">
-        I am recruiting self-motivated undergraduate and master's students to work with me and my collaborators at Meta Superintelligence Lab, NVIDIA, Amazon, Anthropic, Columbia, UC Berkeley, and Stanford on superintelligence, robot learning, and world models. Students I have mentored have gone on to PhD programs at Peking and Tsinghua University, and to Senior Research Scientist roles at TikTok, MiniMax, and DeepSeek.
+        I am particularly interested in foundation models, world models, robot learning, AI for science, and AGI, with a focus on building agents that learn proactively and evolve on their own.
       </div>
     </div>
 
