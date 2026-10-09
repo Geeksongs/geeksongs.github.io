@@ -1331,3 +1331,57 @@ html:not([data-theme="dark"]) body.home-page #navbar {
     color: #d6284f;
   }
 }
+
+.news .news-list {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+
+  .news-item {
+    display: grid;
+    grid-template-columns: 8.5rem minmax(0, 1fr);
+    column-gap: 1.25rem;
+    align-items: baseline;
+    padding: 0.8rem 0;
+    border-bottom: 1px solid var(--global-divider-color);
+
+    &:last-child {
+      border-bottom: 0;
+    }
+  }
+
+  .news-date {
+    color: var(--global-theme-color);
+    font-size: 0.95rem;
+    font-weight: 600;
+    font-variant-numeric: tabular-nums;
+    white-space: nowrap;
+  }
+
+  .news-body {
+    line-height: 1.6;
+  }
+}
+
+@media (max-width: 640px) {
+  .news .news-list .news-item {
+    grid-template-columns: minmax(0, 1fr);
+    row-gap: 0.15rem;
+  }
+}
+
+.home-impact.home-impact-single {
+  max-width: none;
+
+  .impact-card {
+    padding: 0;
+    border: 0;
+    background: transparent;
+    text-align: center;
+  }
+
+  .visitor-map-widget {
+    display: flex;
+    justify-content: center;
+  }
+}

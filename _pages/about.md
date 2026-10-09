@@ -29,7 +29,7 @@ latest_posts:
 
     <address class="home-address">
       <i class="fa-solid fa-location-dot" aria-hidden="true"></i>
-      <span>San Francisco, CA 94105<br>USA</span>
+      <span>San Francisco, CA 94105, USA</span>
     </address>
 
     <div class="phd-callout">
@@ -131,7 +131,7 @@ latest_posts:
   <section class="skill-group" aria-labelledby="skill-science">
     <span class="skill-icon"><i class="fa-solid fa-flask" aria-hidden="true"></i></span>
     <div>
-      <h3 id="skill-science">AI for Science &amp; AGI</h3>
+      <h3 id="skill-science">AI for Science &amp; True AGI</h3>
       <div class="skill-tags">
         <span>AI-driven mathematical discovery</span><span>Number theory</span><span>Evolutionary computation</span><span>Digital life</span><span>Few-shot autonomous learning</span>
       </div>
