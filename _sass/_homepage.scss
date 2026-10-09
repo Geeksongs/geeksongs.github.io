@@ -1282,3 +1282,8 @@ html:not([data-theme="dark"]) body.home-page #navbar {
   grid-template-columns: minmax(0, 1fr);
   max-width: 720px;
 }
+
+.home-intro .research-key {
+  color: #d6284f;
+  font-weight: 800;
+}
