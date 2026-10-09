@@ -1404,3 +1404,9 @@ html:not([data-theme="dark"]) body.home-page #navbar {
 html[data-theme="dark"] .news .news-body span[style*="#b00020"] {
   color: #ff6b81 !important;
 }
+
+.home-intro strong:not(.research-key),
+.research-experience .research-description strong,
+.research-experience .research-bullets strong {
+  font-weight: 800;
+}
