@@ -107,7 +107,7 @@ latest_posts:
 
 ### Popular Book
 
-**Learn Android Development from Scratch (Chinese Edition)** · Python Song (sole author) · Mechanical Industry Press, 2022. A best-selling title that ranked 9th globally on the Programmers' Frequently-Read Books List on JD.com.
+**Learn Android Development from Scratch (Chinese Edition)** · Python Song (sole author) · Mechanical Industry Press, 2022. A **best-selling** title that **ranked 9th globally** on the Programmers' Frequently-Read Books List on JD.com.
 
 </section>
 
