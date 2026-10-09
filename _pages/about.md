@@ -26,6 +26,13 @@ latest_posts:
 <div class="home-hero" id="biography">
   <div class="home-portrait">
     <img src="{{ '/assets/img/prof_pic.jpg' | relative_url }}" alt="Python Song">
+
+    <div class="phd-callout">
+      <div class="phd-title">I am actively seeking Ph.D. opportunities for Fall 2027.</div>
+      <div class="phd-description">
+        I am particularly interested in foundation models, world models, robot learning, AI for science, and True AGI, with a focus on building agents that learn proactively and evolve on their own.
+      </div>
+    </div>
   </div>
 
   <div class="home-intro">
@@ -54,19 +61,10 @@ latest_posts:
       <a href="https://ai.stanford.edu/~amandlek/">Ajay Mandlekar</a> at NVIDIA.
     </p>
 
-    <div class="phd-callout">
-      <div class="phd-title">I am actively seeking Ph.D. opportunities for Fall 2027.</div>
-      <div class="phd-description">
-        I am particularly interested in foundation models, world models, robot learning, AI for science, and True AGI, with a focus on building agents that learn proactively and evolve on their own.
-      </div>
-    </div>
 
     <div class="homepage-links">
       <a href="https://github.com/Geeksongs" target="_blank" rel="noopener noreferrer">
         <i class="fa-brands fa-github" aria-hidden="true"></i> GitHub
-      </a>
-      <a href="https://blog.csdn.net/Geeksongs" target="_blank" rel="noopener noreferrer">
-        <i class="fa-solid fa-pen-nib" aria-hidden="true"></i> Blog
       </a>
       <a href="mailto:js6665@columbia.edu"> <i class="fa-solid fa-envelope" aria-hidden="true"></i> Email </a>
     </div>

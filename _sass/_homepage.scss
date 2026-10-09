@@ -9,7 +9,7 @@
 
 .home-hero {
   display: grid;
-  grid-template-columns: minmax(220px, 280px) minmax(0, 1fr);
+  grid-template-columns: minmax(240px, 330px) minmax(0, 1fr);
   align-items: start;
   gap: 3rem;
   margin: -3rem 0 3rem;
@@ -22,7 +22,7 @@
     img {
       display: block;
       width: 100%;
-      max-width: 280px;
+      max-width: 330px;
       margin: 0 auto;
       aspect-ratio: 4 / 5;
       border-radius: 8px;
@@ -1285,7 +1285,7 @@ html:not([data-theme="dark"]) body.home-page #navbar {
 
 .home-intro .research-key {
   color: #d6284f;
-  font-weight: 800;
+  font-weight: 600;
 }
 
 .publications ol.bibliography > li .publication-entry.no-preview {
@@ -1293,5 +1293,24 @@ html:not([data-theme="dark"]) body.home-page #navbar {
 
   .publication-figure {
     display: none;
+  }
+}
+
+.home-hero .home-portrait {
+  .phd-callout {
+    margin: 1.4rem 0 0;
+    padding: 0.45rem 0 0.45rem 1rem;
+    border-left: 2px solid #e04b64;
+    font-size: 1.02rem;
+  }
+
+  .phd-title {
+    margin-bottom: 0.25rem;
+    color: #d6284f;
+    font-weight: 700;
+  }
+
+  .phd-description {
+    line-height: 1.6;
   }
 }
