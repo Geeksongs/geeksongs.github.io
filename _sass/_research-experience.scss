@@ -307,3 +307,7 @@
 .research-experience .research-entry:first-child {
   padding-top: 1rem;
 }
+
+.research-experience .research-details h3 .at-sign {
+  color: var(--global-theme-color);
+}
