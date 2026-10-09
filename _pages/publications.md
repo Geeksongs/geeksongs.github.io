@@ -11,14 +11,8 @@ nav_order: 2
 
 <!-- Bibsearch Feature -->
 
-## Published Papers, Preprints & Posters
-
-{% include publication_filters.liquid %}
-
 <div class="publications">
 
-{% bibliography --query @*[selected=true]* %}
+{% bibliography %}
 
 </div>
-
-{% include manuscripts_in_preparation.liquid %}

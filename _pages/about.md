@@ -101,13 +101,7 @@ latest_posts:
 
 ## Publications {#selected-publications}
 
-### Published Papers, Preprints & Under Review
-
-{% include publication_filters.liquid %}
-
 {% include selected_papers.liquid %}
-
-{% include manuscripts_in_preparation.liquid %}
 
 [See all publications](/publications/)
 
