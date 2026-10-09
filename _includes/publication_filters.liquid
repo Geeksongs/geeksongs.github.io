@@ -1,0 +1,10 @@
+<input class="publication-search" type="search" aria-label="Search publications" placeholder="Search publications by title, authors, or venue...">
+<div class="publication-filters" role="group" aria-label="Filter publications by type">
+  <button type="button" data-publication-filter="all" aria-pressed="true">All</button>
+  <button type="button" data-publication-filter="published" aria-pressed="false">Published</button>
+  <button type="button" data-publication-filter="preprint" aria-pressed="false">Preprints</button>
+  <button type="button" data-publication-filter="under-review" aria-pressed="false">Under Review</button>
+  <button type="button" data-publication-filter="poster" aria-pressed="false">Posters</button>
+</div>
+<p class="publication-filter-empty" hidden>No publications in this category yet.</p>
+<script src="{{ '/assets/js/publication-filters.js' | relative_url | bust_file_cache }}" defer></script>

@@ -72,7 +72,16 @@
       }
 
       .periodical {
-        color: #e53935;
+        color: #bf4d7d;
+
+        strong {
+          color: inherit;
+          font-weight: 700;
+        }
+      }
+
+      .periodical.publication-distinction {
+        color: #bf4d7d;
       }
 
       .author {

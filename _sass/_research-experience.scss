@@ -1,0 +1,271 @@
+.research-experience {
+  .research-entry {
+    display: grid;
+    grid-template-columns: 8.5rem 76px minmax(0, 1fr);
+    column-gap: 1rem;
+    align-items: start;
+    padding: 1.55rem 0;
+    border-bottom: 1px solid var(--global-divider-color);
+
+    &:last-child {
+      border-bottom: 0;
+    }
+  }
+
+  .research-date {
+    padding-top: 0.15rem;
+    color: var(--global-text-color-light);
+    font-size: 1.1rem;
+    font-weight: 600;
+    white-space: nowrap;
+
+    small {
+      font-size: inherit;
+    }
+  }
+
+  .research-logo {
+    display: flex;
+    width: 76px;
+    align-items: center;
+    justify-content: center;
+    padding-top: 0;
+
+    img {
+      display: block;
+      width: 100%;
+      max-width: 76px;
+      height: 50px;
+      object-fit: contain;
+      object-position: center top;
+    }
+  }
+
+  .research-logo-pittsburgh img {
+    background-color: #fff;
+    filter: brightness(1.05);
+    border-radius: 4px;
+    transform: translateY(-0.5rem);
+  }
+
+  .research-details {
+    h3 {
+      margin: 0 0 0.25rem;
+      font-size: 1.2rem;
+      line-height: 1.4;
+      font-weight: 700;
+
+      a {
+        color: var(--global-theme-color);
+        text-decoration: none;
+
+        &:hover {
+          text-decoration: underline;
+        }
+      }
+    }
+
+    .research-location {
+      margin: 0 0 0.55rem;
+      color: var(--global-text-color-light);
+      font-size: 1.1rem;
+      font-weight: 600;
+    }
+
+    .research-summary {
+      margin: 0 0 0.7rem;
+      color: var(--global-text-color-light);
+      font-size: 1.05rem;
+      line-height: 1.6;
+
+      a {
+        color: var(--global-theme-color);
+        text-decoration: none;
+
+        &:hover {
+          text-decoration: underline;
+        }
+      }
+    }
+
+    .research-bullets {
+      margin: 0;
+      padding-left: 1.25rem;
+      color: var(--global-text-color);
+      font-size: 1.1rem;
+      line-height: 1.6;
+
+      li {
+        margin-bottom: 0.4rem;
+      }
+
+      li:last-child {
+        margin-bottom: 0;
+      }
+    }
+
+    .research-label {
+      color: var(--global-theme-color);
+      font-weight: 400;
+    }
+
+    .research-description {
+      margin: 0;
+      color: var(--global-text-color);
+      font-size: 1.1rem;
+      line-height: 1.6;
+
+      a {
+        color: var(--global-theme-color);
+        text-decoration: none;
+
+        &:hover {
+          text-decoration: underline;
+        }
+      }
+    }
+  }
+
+  .education-entry {
+    .education-school {
+      margin: 0 0 0.35rem;
+      font-size: 1.1rem;
+      font-weight: 700;
+      line-height: 1.4;
+
+      a {
+        color: var(--global-theme-color);
+        text-decoration: none;
+
+        &:hover {
+          text-decoration: underline;
+        }
+      }
+    }
+
+    .education-meta {
+      margin-bottom: 0.35rem;
+    }
+  }
+}
+
+@media (max-width: 850px) {
+  .research-experience {
+    .research-entry {
+      grid-template-columns: 8rem 76px minmax(0, 1fr);
+      column-gap: 0.8rem;
+    }
+
+    .research-logo {
+      width: 76px;
+
+      img {
+        max-width: 76px;
+      }
+    }
+  }
+}
+
+@media (max-width: 640px) {
+  .research-experience {
+    .research-entry {
+      grid-template-columns: 60px minmax(0, 1fr);
+      column-gap: 1rem;
+      row-gap: 0.45rem;
+      padding: 1.4rem 0;
+    }
+
+    .research-date {
+      grid-column: 1 / -1;
+      padding: 0;
+      font-size: 1rem;
+    }
+
+    .research-logo {
+      grid-column: 1;
+      width: 60px;
+      padding-top: 0;
+
+      img {
+        max-width: 60px;
+        height: 42px;
+      }
+    }
+
+    .research-details {
+      grid-column: 2;
+
+      h3 {
+        font-size: 1.1rem;
+      }
+
+      .research-location {
+        font-size: 1rem;
+      }
+
+      .research-description,
+      .research-bullets {
+        font-size: 1.0625rem;
+      }
+    }
+  }
+}
+
+.professional-experience {
+  .research-entry {
+    grid-template-columns: 12.5rem 76px minmax(0, 1fr);
+  }
+
+  .company-logo {
+    position: relative;
+    height: 50px;
+    overflow: hidden;
+    padding-top: 0.35rem;
+
+    img {
+      height: auto;
+    }
+  }
+
+  .company-logo-jd img {
+    position: absolute;
+    top: 0;
+    left: 50%;
+    width: 132px;
+    max-width: none;
+    height: auto;
+    transform: translate(-50%, -26px);
+  }
+
+  .company-logo-bytedance img {
+    background-color: white;
+    border-radius: 3px;
+    padding: 4px;
+    filter: none;
+  }
+}
+
+@media (max-width: 850px) {
+  .professional-experience .research-entry {
+    grid-template-columns: 11.5rem 76px minmax(0, 1fr);
+  }
+}
+
+@media (max-width: 640px) {
+  .professional-experience {
+    .research-entry {
+      grid-template-columns: 60px minmax(0, 1fr);
+    }
+
+    .company-logo {
+      height: 42px;
+    }
+
+    .company-logo-jd img {
+      width: 104px;
+      max-width: none;
+      height: auto;
+      transform: translate(-50%, -20px);
+    }
+  }
+}
