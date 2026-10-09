@@ -269,3 +269,26 @@
     }
   }
 }
+
+@media (min-width: 641px) {
+  .research-experience.wide-dates {
+    .research-entry {
+      grid-template-columns: 12.5rem 76px minmax(0, 1fr);
+    }
+
+    .research-logo {
+      padding-top: 0.2rem;
+
+      img {
+        height: 64px;
+        object-position: center center;
+      }
+    }
+  }
+}
+
+@media (min-width: 641px) and (max-width: 850px) {
+  .research-experience.wide-dates .research-entry {
+    grid-template-columns: 10.5rem 76px minmax(0, 1fr);
+  }
+}
