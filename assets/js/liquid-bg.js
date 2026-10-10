@@ -20,16 +20,18 @@
   });
   hero.prepend(layer);
 
+  let inside = false;
   const target = { x: hero.clientWidth * 0.5, y: hero.clientHeight * 0.4 };
   blobs.forEach((b) => {
-    b.x = target.x;
-    b.y = target.y;
+    b.x = target.x + b.ox;
+    b.y = target.y + b.oy;
   });
   window.addEventListener(
     "pointermove",
     (e) => {
       const r = hero.getBoundingClientRect();
-      if (e.clientY < r.top || e.clientY > r.bottom) return;
+      inside = e.clientX >= r.left && e.clientX <= r.right && e.clientY >= r.top && e.clientY <= r.bottom;
+      if (!inside) return;
       target.x = e.clientX - r.left;
       target.y = e.clientY - r.top;
     },
@@ -43,6 +45,11 @@
     requestAnimationFrame(frame);
     if (!running || document.hidden) return;
     const t = reduced ? 0 : now / 1000;
+    if (!inside) {
+      // no pointer on the hero: wander across it on a slow loop so the glow is always visible
+      target.x = hero.clientWidth * (0.5 + 0.3 * Math.sin(t * 0.17));
+      target.y = hero.clientHeight * (0.45 + 0.25 * Math.cos(t * 0.13));
+    }
     blobs.forEach((b, i) => {
       if (!reduced) {
         b.x += (target.x + b.ox + Math.sin(t * 0.4 + i * 2) * 40 - b.x) * b.follow;
