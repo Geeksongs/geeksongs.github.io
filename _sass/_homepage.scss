@@ -1543,9 +1543,15 @@ html[data-theme="dark"] .news .news-body span[style*="#b00020"] {
     text-align: center;
   }
 
+  .stat-icon {
+    margin-bottom: 0.5rem;
+    color: #7645b9;
+    font-size: 1.3rem;
+  }
+
   .stat-big {
     color: #5b2f9e;
-    font-size: 1.75rem;
+    font-size: 1.2rem;
     font-weight: 800;
     line-height: 1.1;
     letter-spacing: -0.01em;
