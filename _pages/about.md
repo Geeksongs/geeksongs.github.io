@@ -25,18 +25,35 @@ latest_posts:
 
 <div class="home-hero" id="biography">
   <div class="home-portrait">
-    <img src="{{ '/assets/img/prof_pic.jpg' | relative_url }}" alt="Python Song">
+    <div class="portrait-frame">
+      <img src="{{ '/assets/img/prof_pic.jpg' | relative_url }}" alt="Python Song">
+      <span class="portrait-badge"><i class="fa-solid fa-graduation-cap" aria-hidden="true"></i> Seeking Ph.D. · Fall 2027</span>
+    </div>
 
     <address class="home-address">
       <i class="fa-solid fa-location-dot" aria-hidden="true"></i>
       <span>San Francisco, CA 94105, USA</span>
     </address>
 
+    <div class="topic-chips" aria-label="Research areas">
+      <span class="topic-chip chip-fm"><i class="fa-solid fa-earth-americas" aria-hidden="true"></i> Foundation &amp; World Models</span>
+      <span class="topic-chip chip-robot"><i class="fa-solid fa-robot" aria-hidden="true"></i> Robot Learning</span>
+      <span class="topic-chip chip-sci"><i class="fa-solid fa-flask" aria-hidden="true"></i> AI for Science</span>
+      <span class="topic-chip chip-agi"><i class="fa-solid fa-dna" aria-hidden="true"></i> True AGI</span>
+    </div>
+
     <div class="phd-callout">
       <div class="phd-title">I am actively seeking Ph.D. opportunities for Fall 2027.</div>
       <div class="phd-description">
         I am particularly interested in foundation models, world models, robot learning, AI for science, and True AGI, with a focus on building agents that learn proactively and evolve on their own.
       </div>
+    </div>
+
+    <div class="homepage-links">
+      <a href="https://github.com/Geeksongs" target="_blank" rel="noopener noreferrer" class="link-btn">
+        <i class="fa-brands fa-github" aria-hidden="true"></i> GitHub
+      </a>
+      <a href="mailto:js6665@columbia.edu" class="link-btn"> <i class="fa-solid fa-envelope" aria-hidden="true"></i> Email </a>
     </div>
   </div>
 
@@ -52,12 +69,43 @@ latest_posts:
       <strong class="research-key">foundation models, world models, robot learning, AI for science, and True AGI</strong>:
     </p>
 
-    <ul>
-      <li><strong class="research-key area-label">Foundation Models &amp; World Models:</strong> In my first-author work, I led the development of the largest world model designed for <strong class="research-key">Proactive AI</strong>. This work was accepted as an <strong class="research-key">EMNLP Oral (top ~1%)</strong>.</li>
-      <li><strong class="research-key area-label">Robot Learning:</strong> I developed a robot learning framework that evolves itself and achieves <strong class="research-key">#1 performance</strong> on both <strong>LIBERO-Pro</strong> and <strong>RoboCasa365</strong>, surpassing results from the robotics company Physical Intelligence on these two challenging benchmarks for robot generalization.</li>
-      <li><strong class="research-key area-label">AI for Science:</strong> I have also been exploring AI-driven scientific discovery. I <strong class="research-key">surpassed the previous world record</strong> on the three-color Pythagorean triples problem and produced a <strong class="research-key">first proof</strong> for a notoriously hard open problem.</li>
-      <li><strong class="research-key area-label">True AGI:</strong> I am researching true AGI: with no loss function, no ground-truth data, and no backpropagation, I use Darwinian evolution, and few-shot autonomous learning ability emerges in the resulting digital life, opening a new route toward true AGI. This paper has been submitted to <strong class="research-key">Nature</strong>.</li>
-    </ul>
+    <div class="research-grid">
+      <article class="research-card card-fm">
+        <div class="card-head">
+          <span class="card-icon"><i class="fa-solid fa-earth-americas" aria-hidden="true"></i></span>
+          <strong class="research-key area-label">Foundation Models &amp; World Models</strong>
+        </div>
+        <div class="stat-pills"><span class="stat-pill"><i class="fa-solid fa-trophy" aria-hidden="true"></i> EMNLP Oral · top ~1%</span></div>
+        <p>In my first-author work, I led the development of the largest world model designed for <strong class="research-key">Proactive AI</strong>. This work was accepted as an <strong class="research-key">EMNLP Oral (top ~1%)</strong>.</p>
+      </article>
+
+      <article class="research-card card-robot">
+        <div class="card-head">
+          <span class="card-icon"><i class="fa-solid fa-robot" aria-hidden="true"></i></span>
+          <strong class="research-key area-label">Robot Learning</strong>
+        </div>
+        <div class="stat-pills"><span class="stat-pill"><i class="fa-solid fa-ranking-star" aria-hidden="true"></i> #1 · LIBERO-Pro</span><span class="stat-pill"><i class="fa-solid fa-ranking-star" aria-hidden="true"></i> #1 · RoboCasa365</span></div>
+        <p>I developed a robot learning framework that evolves itself and achieves <strong class="research-key">#1 performance</strong> on both <strong>LIBERO-Pro</strong> and <strong>RoboCasa365</strong>, surpassing results from the robotics company Physical Intelligence on these two challenging benchmarks for robot generalization.</p>
+      </article>
+
+      <article class="research-card card-sci">
+        <div class="card-head">
+          <span class="card-icon"><i class="fa-solid fa-flask" aria-hidden="true"></i></span>
+          <strong class="research-key area-label">AI for Science</strong>
+        </div>
+        <div class="stat-pills"><span class="stat-pill"><i class="fa-solid fa-medal" aria-hidden="true"></i> World record</span><span class="stat-pill"><i class="fa-solid fa-square-root-variable" aria-hidden="true"></i> First proof</span></div>
+        <p>I have also been exploring AI-driven scientific discovery. I <strong class="research-key">surpassed the previous world record</strong> on the three-color Pythagorean triples problem and produced a <strong class="research-key">first proof</strong> for a notoriously hard open problem.</p>
+      </article>
+
+      <article class="research-card card-agi">
+        <div class="card-head">
+          <span class="card-icon"><i class="fa-solid fa-dna" aria-hidden="true"></i></span>
+          <strong class="research-key area-label">True AGI</strong>
+        </div>
+        <div class="stat-pills"><span class="stat-pill"><i class="fa-solid fa-paper-plane" aria-hidden="true"></i> Submitted to Nature</span></div>
+        <p>I am researching true AGI: with no loss function, no ground-truth data, and no backpropagation, I use Darwinian evolution, and few-shot autonomous learning ability emerges in the resulting digital life, opening a new route toward true AGI. This paper has been submitted to <strong class="research-key">Nature</strong>.</p>
+      </article>
+    </div>
 
     <p>
       I conducted research under the guidance of <a href="https://jessethomason.com/">Prof. Jesse Thomason</a> at Georgia Tech, and
@@ -66,12 +114,11 @@ latest_posts:
       <a href="https://ai.stanford.edu/~amandlek/">Ajay Mandlekar</a> at NVIDIA.
     </p>
 
-
-    <div class="homepage-links">
-      <a href="https://github.com/Geeksongs" target="_blank" rel="noopener noreferrer">
-        <i class="fa-brands fa-github" aria-hidden="true"></i> GitHub
-      </a>
-      <a href="mailto:js6665@columbia.edu"> <i class="fa-solid fa-envelope" aria-hidden="true"></i> Email </a>
+    <div class="affil-logos" aria-label="Research collaborations">
+      <a href="https://www.columbia.edu/" target="_blank" rel="noopener noreferrer"><img src="{{ '/assets/img/columbia-university-vector-logo-seeklogo/columbia-university-seeklogo.png' | relative_url }}" alt="Columbia University"></a>
+      <a href="https://www.gatech.edu/" target="_blank" rel="noopener noreferrer"><img src="{{ '/assets/img/gatech-logo.png' | relative_url }}" alt="Georgia Tech"></a>
+      <a href="https://www.berkeley.edu/" target="_blank" rel="noopener noreferrer"><img src="{{ '/assets/img/berkeley-university-vector-logo-seeklogo/berkeley-university-seeklogo.png' | relative_url }}" alt="UC Berkeley"></a>
+      <a href="https://www.nvidia.com/" target="_blank" rel="noopener noreferrer"><img src="{{ '/assets/img/nvidia-logo-png_seeklogo-101614.png' | relative_url }}" alt="NVIDIA"></a>
     </div>
   </div>
 </div>

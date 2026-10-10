@@ -1463,3 +1463,208 @@ html[data-theme="dark"] .news .news-body span[style*="#b00020"] {
   color: #b00020;
   text-decoration: underline;
 }
+
+/* Hero: portrait frame, chips and research cards */
+.home-hero .home-portrait {
+  .portrait-frame {
+    position: relative;
+  }
+
+  .portrait-badge {
+    position: absolute;
+    right: 0.7rem;
+    bottom: 0.7rem;
+    left: 0.7rem;
+    padding: 0.35rem 0.7rem;
+    border-radius: 999px;
+    background: rgba(176, 0, 32, 0.92);
+    color: #fff;
+    font-size: 0.85rem;
+    font-weight: 700;
+    text-align: center;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.25);
+  }
+
+  .topic-chips {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.45rem;
+    margin: 1rem 0 0;
+  }
+
+  .topic-chip {
+    padding: 0.28rem 0.7rem;
+    border: 1px solid currentColor;
+    border-radius: 999px;
+    font-size: 0.82rem;
+    font-weight: 600;
+    line-height: 1.4;
+    white-space: nowrap;
+
+    i {
+      margin-right: 0.25rem;
+    }
+  }
+
+  .chip-fm {
+    color: #2f6fdd;
+    background: #eef4ff;
+  }
+
+  .chip-robot {
+    color: #c43b3b;
+    background: #fff0f0;
+  }
+
+  .chip-sci {
+    color: #0f8a6a;
+    background: #e9f8f2;
+  }
+
+  .chip-agi {
+    color: #7a3fc0;
+    background: #f5eefd;
+  }
+
+  .homepage-links {
+    display: flex;
+    gap: 0.6rem;
+    margin: 1.1rem 0 0;
+
+    .link-btn {
+      flex: 1;
+      padding: 0.45rem 0.8rem;
+      border: 1px solid var(--global-divider-color);
+      border-radius: 10px;
+      color: var(--global-text-color);
+      font-weight: 600;
+      text-align: center;
+      text-decoration: none;
+      transition:
+        background 0.15s ease,
+        border-color 0.15s ease;
+
+      &:hover {
+        border-color: #b00020;
+        background: #fff5f6;
+        color: #b00020;
+      }
+    }
+  }
+}
+
+.home-intro .research-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1rem;
+  margin: 1.1rem 0 1.3rem;
+}
+
+.home-intro .research-card {
+  --card-accent: #b00020;
+
+  padding: 1rem 1.1rem 1.05rem;
+  border: 1px solid var(--global-divider-color);
+  border-top: 3px solid var(--card-accent);
+  border-radius: 12px;
+  background: #fff;
+  box-shadow: 0 1px 6px rgba(0, 0, 0, 0.05);
+
+  &.card-fm {
+    --card-accent: #2f6fdd;
+  }
+
+  &.card-robot {
+    --card-accent: #c43b3b;
+  }
+
+  &.card-sci {
+    --card-accent: #0f8a6a;
+  }
+
+  &.card-agi {
+    --card-accent: #7a3fc0;
+  }
+
+  .card-head {
+    display: flex;
+    align-items: center;
+    gap: 0.6rem;
+  }
+
+  .card-icon {
+    display: inline-flex;
+    flex: none;
+    align-items: center;
+    justify-content: center;
+    width: 2.2rem;
+    height: 2.2rem;
+    border-radius: 50%;
+    background: var(--card-accent);
+    color: #fff;
+    font-size: 1rem;
+  }
+
+  .area-label {
+    font-size: 1.02rem;
+    line-height: 1.3;
+  }
+
+  .stat-pills {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.4rem;
+    margin: 0.7rem 0 0.5rem;
+  }
+
+  .stat-pill {
+    padding: 0.2rem 0.6rem;
+    border-radius: 6px;
+    background: color-mix(in srgb, var(--card-accent) 12%, #fff);
+    color: var(--card-accent);
+    font-size: 0.8rem;
+    font-weight: 700;
+
+    i {
+      margin-right: 0.25rem;
+    }
+  }
+
+  p {
+    margin: 0;
+    color: var(--global-text-color);
+    font-size: 0.93rem;
+    line-height: 1.6;
+  }
+}
+
+.home-intro .affil-logos {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.9rem;
+  margin-top: 0.9rem;
+
+  a {
+    display: inline-flex;
+    align-items: center;
+    height: 42px;
+    padding: 6px 12px;
+    border: 1px solid var(--global-divider-color);
+    border-radius: 8px;
+    background: #fff;
+  }
+
+  img {
+    width: auto;
+    max-width: 130px;
+    height: 100%;
+    object-fit: contain;
+  }
+}
+
+@media (max-width: 900px) {
+  .home-intro .research-grid {
+    grid-template-columns: minmax(0, 1fr);
+  }
+}
