@@ -43,7 +43,7 @@ latest_posts:
 
     <p>
       I graduated with a master's degree from <a href="https://www.columbia.edu/">Columbia University</a>. My research focuses on
-      <strong class="research-key">foundation models, world models, robot learning, AI for science, and True AGI</strong>.
+      <strong class="research-key">foundation models, world models, robot learning, and AI for science</strong>.
     </p>
 
     <div class="phd-callout">
@@ -66,7 +66,7 @@ latest_posts:
     <article class="research-card">
       <div class="stat-panel"><i class="fa-solid fa-earth-americas stat-icon" aria-hidden="true"></i><span class="stat-big">Foundation Models &amp; World Models</span></div>
       <div class="card-body">
-        <div class="card-head"><strong class="research-key area-label">Top 1% · EMNLP Oral</strong></div>
+        <div class="card-head"><strong class="research-key area-label">EMNLP Oral (Top 1%)</strong></div>
         <p>In my first-author work, I led the development of the largest world model designed for <strong class="research-key">Proactive AI</strong>. This work was accepted as an <strong class="research-key">EMNLP Oral (top ~1%)</strong>.</p>
       </div>
     </article>
@@ -74,7 +74,7 @@ latest_posts:
     <article class="research-card">
       <div class="stat-panel"><i class="fa-solid fa-robot stat-icon" aria-hidden="true"></i><span class="stat-big">Robot Learning</span></div>
       <div class="card-body">
-        <div class="card-head"><strong class="research-key area-label">#1 · LIBERO-Pro &amp; RoboCasa365</strong></div>
+        <div class="card-head"><strong class="research-key area-label">#1 Performance on LIBERO-Pro &amp; RoboCasa365</strong></div>
         <p>I developed a robot learning framework that evolves itself and achieves <strong class="research-key">#1 performance</strong> on both <strong>LIBERO-Pro</strong> and <strong>RoboCasa365</strong>, surpassing results from the robotics company Physical Intelligence on these two challenging benchmarks for robot generalization.</p>
       </div>
     </article>
@@ -82,15 +82,15 @@ latest_posts:
     <article class="research-card">
       <div class="stat-panel"><i class="fa-solid fa-flask stat-icon" aria-hidden="true"></i><span class="stat-big">AI for Science</span></div>
       <div class="card-body">
-        <div class="card-head"><strong class="research-key area-label">Break World Record</strong></div>
+        <div class="card-head"><strong class="research-key area-label">I Broke the World Record</strong></div>
         <p>I have also been exploring AI-driven scientific discovery. I <strong class="research-key">surpassed the previous world record</strong> on the three-color Pythagorean triples problem and produced a <strong class="research-key">first proof</strong> for a notoriously hard open problem.</p>
       </div>
     </article>
 
     <article class="research-card">
-      <div class="stat-panel"><i class="fa-solid fa-dna stat-icon" aria-hidden="true"></i><span class="stat-big">True AGI</span></div>
+      <div class="stat-panel"><i class="fa-solid fa-dna stat-icon" aria-hidden="true"></i><span class="stat-big">AGI</span></div>
       <div class="card-body">
-        <div class="card-head"><strong class="research-key area-label">A Brand-New Way of AI Learning</strong></div>
+        <div class="card-head"><strong class="research-key area-label">A Brand-New Paradigm of AI Learning</strong></div>
         <p>I am researching true AGI: with no loss function, no ground-truth data, and no backpropagation, I use Darwinian evolution, and few-shot autonomous learning ability emerges in the resulting digital life, opening a new route toward true AGI. This paper has been submitted to <strong class="research-key">Nature</strong>.</p>
       </div>
     </article>
