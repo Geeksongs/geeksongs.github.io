@@ -1453,3 +1453,13 @@ html[data-theme="dark"] .news .news-body span[style*="#b00020"] {
 .home-intro .research-key.area-label {
   font-weight: 800;
 }
+
+.publications .publication-entry .title,
+.publications .publication-entry .title a {
+  color: #000;
+}
+
+.publications .publication-entry .title a:hover {
+  color: #b00020;
+  text-decoration: underline;
+}
