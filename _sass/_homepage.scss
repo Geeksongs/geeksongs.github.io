@@ -1438,10 +1438,12 @@ html[data-theme="dark"] .news .news-body span[style*="#b00020"] {
   color: #ff6b81 !important;
 }
 
-.home-intro strong:not(.research-key),
-.research-experience .research-description strong,
-.research-experience .research-bullets strong {
+.home-intro strong:not(.research-key) {
   font-weight: 800;
+}
+
+.research-experience .strong-heavy {
+  font-weight: 900;
 }
 
 .news .news-body span[style*="#b00020"] {
