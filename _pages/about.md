@@ -59,6 +59,7 @@ latest_posts:
       </a>
       <a href="mailto:js6665@columbia.edu" class="link-btn"> <i class="fa-solid fa-envelope" aria-hidden="true"></i> Email </a>
     </div>
+
   </div>
 
   <div class="research-grid">
@@ -93,6 +94,7 @@ latest_posts:
         <p>I am researching true AGI: with no loss function, no ground-truth data, and no backpropagation, I use Darwinian evolution, and few-shot autonomous learning ability emerges in the resulting digital life, opening a new route toward true AGI. This paper has been submitted to <strong class="research-key">Nature</strong>.</p>
       </div>
     </article>
+
   </div>
 
   <div class="home-collab">

@@ -168,9 +168,15 @@
       w,
       h,
       texel: a.texel,
-      get read() { return a; },
-      get write() { return b; },
-      swap() { [a, b] = [b, a]; },
+      get read() {
+        return a;
+      },
+      get write() {
+        return b;
+      },
+      swap() {
+        [a, b] = [b, a];
+      },
     };
   };
 
