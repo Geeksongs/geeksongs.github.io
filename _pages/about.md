@@ -25,23 +25,12 @@ latest_posts:
 
 <div class="home-hero" id="biography">
   <div class="home-portrait">
-    <div class="portrait-frame">
-      <img src="{{ '/assets/img/prof_pic.jpg' | relative_url }}" alt="Python Song">
-      <span class="portrait-badge"><i class="fa-solid fa-graduation-cap" aria-hidden="true"></i> Seeking Ph.D. · Fall 2027</span>
-    </div>
+    <img src="{{ '/assets/img/prof_pic.jpg' | relative_url }}" alt="Python Song">
 
     <address class="home-address">
       <i class="fa-solid fa-location-dot" aria-hidden="true"></i>
       <span>San Francisco, CA 94105, USA</span>
     </address>
-
-
-    <div class="phd-callout">
-      <div class="phd-title">I am actively seeking Ph.D. opportunities for Fall 2027.</div>
-      <div class="phd-description">
-        I am particularly interested in foundation models, world models, robot learning, AI for science, and True AGI, with a focus on building agents that learn proactively and evolve on their own.
-      </div>
-    </div>
 
     <div class="homepage-links">
       <a href="https://github.com/Geeksongs" target="_blank" rel="noopener noreferrer" class="link-btn">
@@ -60,54 +49,58 @@ latest_posts:
 
     <p>
       I graduated with a master's degree from <a href="https://www.columbia.edu/">Columbia University</a>. My research focuses on
-      <strong class="research-key">foundation models, world models, robot learning, AI for science, and True AGI</strong>:
+      <strong class="research-key">foundation models, world models, robot learning, AI for science, and True AGI</strong>.
     </p>
 
-    <div class="research-grid">
-      <article class="research-card card-fm">
-        <div class="card-head">
-          <span class="card-icon"><i class="fa-solid fa-earth-americas" aria-hidden="true"></i></span>
-          <strong class="research-key area-label">Foundation Models &amp; World Models</strong>
-        </div>
-        <div class="stat-pills"><span class="stat-pill"><i class="fa-solid fa-trophy" aria-hidden="true"></i> EMNLP Oral · top ~1%</span></div>
-        <p>In my first-author work, I led the development of the largest world model designed for <strong class="research-key">Proactive AI</strong>. This work was accepted as an <strong class="research-key">EMNLP Oral (top ~1%)</strong>.</p>
-      </article>
-
-      <article class="research-card card-robot">
-        <div class="card-head">
-          <span class="card-icon"><i class="fa-solid fa-robot" aria-hidden="true"></i></span>
-          <strong class="research-key area-label">Robot Learning</strong>
-        </div>
-        <div class="stat-pills"><span class="stat-pill"><i class="fa-solid fa-ranking-star" aria-hidden="true"></i> #1 · LIBERO-Pro</span><span class="stat-pill"><i class="fa-solid fa-ranking-star" aria-hidden="true"></i> #1 · RoboCasa365</span></div>
-        <p>I developed a robot learning framework that evolves itself and achieves <strong class="research-key">#1 performance</strong> on both <strong>LIBERO-Pro</strong> and <strong>RoboCasa365</strong>, surpassing results from the robotics company Physical Intelligence on these two challenging benchmarks for robot generalization.</p>
-      </article>
-
-      <article class="research-card card-sci">
-        <div class="card-head">
-          <span class="card-icon"><i class="fa-solid fa-flask" aria-hidden="true"></i></span>
-          <strong class="research-key area-label">AI for Science</strong>
-        </div>
-        <div class="stat-pills"><span class="stat-pill"><i class="fa-solid fa-medal" aria-hidden="true"></i> World record</span><span class="stat-pill"><i class="fa-solid fa-square-root-variable" aria-hidden="true"></i> First proof</span></div>
-        <p>I have also been exploring AI-driven scientific discovery. I <strong class="research-key">surpassed the previous world record</strong> on the three-color Pythagorean triples problem and produced a <strong class="research-key">first proof</strong> for a notoriously hard open problem.</p>
-      </article>
-
-      <article class="research-card card-agi">
-        <div class="card-head">
-          <span class="card-icon"><i class="fa-solid fa-dna" aria-hidden="true"></i></span>
-          <strong class="research-key area-label">True AGI</strong>
-        </div>
-        <div class="stat-pills"><span class="stat-pill"><i class="fa-solid fa-paper-plane" aria-hidden="true"></i> Submitted to Nature</span></div>
-        <p>I am researching true AGI: with no loss function, no ground-truth data, and no backpropagation, I use Darwinian evolution, and few-shot autonomous learning ability emerges in the resulting digital life, opening a new route toward true AGI. This paper has been submitted to <strong class="research-key">Nature</strong>.</p>
-      </article>
+    <div class="phd-callout">
+      <div class="phd-title">I am actively seeking Ph.D. opportunities for Fall 2027.</div>
+      <div class="phd-description">
+        I am particularly interested in foundation models, world models, robot learning, AI for science, and True AGI, with a focus on building agents that learn proactively and evolve on their own.
+      </div>
     </div>
+  </div>
 
+  <div class="research-grid">
+    <article class="research-card">
+      <div class="stat-panel"><span class="stat-big">Top 1%</span><span class="stat-cap">EMNLP Oral</span></div>
+      <div class="card-body">
+        <div class="card-head"><i class="fa-solid fa-earth-americas" aria-hidden="true"></i><strong class="research-key area-label">Foundation Models &amp; World Models</strong></div>
+        <p>In my first-author work, I led the development of the largest world model designed for <strong class="research-key">Proactive AI</strong>. This work was accepted as an <strong class="research-key">EMNLP Oral (top ~1%)</strong>.</p>
+      </div>
+    </article>
+
+    <article class="research-card">
+      <div class="stat-panel"><span class="stat-big">#1</span><span class="stat-cap">LIBERO-Pro<br>RoboCasa365</span></div>
+      <div class="card-body">
+        <div class="card-head"><i class="fa-solid fa-robot" aria-hidden="true"></i><strong class="research-key area-label">Robot Learning</strong></div>
+        <p>I developed a robot learning framework that evolves itself and achieves <strong class="research-key">#1 performance</strong> on both <strong>LIBERO-Pro</strong> and <strong>RoboCasa365</strong>, surpassing results from the robotics company Physical Intelligence on these two challenging benchmarks for robot generalization.</p>
+      </div>
+    </article>
+
+    <article class="research-card">
+      <div class="stat-panel"><span class="stat-big">Record</span><span class="stat-cap">Pythagorean triples<br>First proof</span></div>
+      <div class="card-body">
+        <div class="card-head"><i class="fa-solid fa-flask" aria-hidden="true"></i><strong class="research-key area-label">AI for Science</strong></div>
+        <p>I have also been exploring AI-driven scientific discovery. I <strong class="research-key">surpassed the previous world record</strong> on the three-color Pythagorean triples problem and produced a <strong class="research-key">first proof</strong> for a notoriously hard open problem.</p>
+      </div>
+    </article>
+
+    <article class="research-card">
+      <div class="stat-panel"><span class="stat-big">Nature</span><span class="stat-cap">Submitted</span></div>
+      <div class="card-body">
+        <div class="card-head"><i class="fa-solid fa-dna" aria-hidden="true"></i><strong class="research-key area-label">True AGI</strong></div>
+        <p>I am researching true AGI: with no loss function, no ground-truth data, and no backpropagation, I use Darwinian evolution, and few-shot autonomous learning ability emerges in the resulting digital life, opening a new route toward true AGI. This paper has been submitted to <strong class="research-key">Nature</strong>.</p>
+      </div>
+    </article>
+  </div>
+
+  <div class="home-collab">
     <p>
       I conducted research under the guidance of <a href="https://jessethomason.com/">Prof. Jesse Thomason</a> at Georgia Tech, and
       <a href="https://www.cs.columbia.edu/~junfeng/">Prof. Junfeng Yang</a> and <a href="https://lsl.zone/">Prof. Shilong Liu</a> at Columbia. I have also
       conducted robot learning research with Research Scientists <a href="https://siddancha.github.io/">Siddharth Ancha</a> at UC Berkeley and
       <a href="https://ai.stanford.edu/~amandlek/">Ajay Mandlekar</a> at NVIDIA.
     </p>
-
     <div class="affil-logos" aria-label="Research collaborations">
       <a href="https://www.columbia.edu/" target="_blank" rel="noopener noreferrer"><img src="{{ '/assets/img/columbia-university-vector-logo-seeklogo/columbia-university-seeklogo.png' | relative_url }}" alt="Columbia University"></a>
       <a href="https://www.gatech.edu/" target="_blank" rel="noopener noreferrer"><img src="{{ '/assets/img/gatech-logo.png' | relative_url }}" alt="Georgia Tech"></a>
