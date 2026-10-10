@@ -1283,7 +1283,8 @@ html:not([data-theme="dark"]) body.home-page #navbar {
   max-width: 720px;
 }
 
-.home-intro .research-key {
+.home-intro .research-key,
+.home-hero .research-grid .research-key {
   color: #b00020;
   font-weight: 600;
 }
@@ -1437,7 +1438,8 @@ html[data-theme="dark"] .news .news-body span[style*="#b00020"] {
   color: #ff6b81 !important;
 }
 
-.home-intro strong:not(.research-key) {
+.home-intro strong:not(.research-key),
+.home-hero .research-grid strong:not(.research-key) {
   font-weight: 800;
 }
 
@@ -1449,7 +1451,8 @@ html[data-theme="dark"] .news .news-body span[style*="#b00020"] {
   font-weight: 700 !important;
 }
 
-.home-intro .research-key.area-label {
+.home-intro .research-key.area-label,
+.home-hero .research-grid .research-key.area-label {
   font-weight: 800;
 }
 
