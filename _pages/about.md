@@ -48,7 +48,7 @@ latest_posts:
     </div>
 
     <p>
-      I graduated with a master's degree from <a href="https://www.columbia.edu/">Columbia University</a>. My research spans
+      I graduated with a master's degree from <a href="https://www.columbia.edu/">Columbia University</a>. My research focuses on
       <strong class="research-key">foundation models, world models, robot learning, AI for science, and True AGI</strong>:
     </p>
 
