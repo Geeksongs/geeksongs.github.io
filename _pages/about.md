@@ -82,7 +82,7 @@ latest_posts:
     <article class="research-card">
       <div class="stat-panel"><i class="fa-solid fa-flask stat-icon" aria-hidden="true"></i><span class="stat-big">AI for Science</span></div>
       <div class="card-body">
-        <div class="card-head"><strong class="research-key area-label">Record · Pythagorean triples, first proof</strong></div>
+        <div class="card-head"><strong class="research-key area-label">Break World Record</strong></div>
         <p>I have also been exploring AI-driven scientific discovery. I <strong class="research-key">surpassed the previous world record</strong> on the three-color Pythagorean triples problem and produced a <strong class="research-key">first proof</strong> for a notoriously hard open problem.</p>
       </div>
     </article>
@@ -90,7 +90,7 @@ latest_posts:
     <article class="research-card">
       <div class="stat-panel"><i class="fa-solid fa-dna stat-icon" aria-hidden="true"></i><span class="stat-big">True AGI</span></div>
       <div class="card-body">
-        <div class="card-head"><strong class="research-key area-label">Nature · Submitted</strong></div>
+        <div class="card-head"><strong class="research-key area-label">A Brand-New Way of AI Learning</strong></div>
         <p>I am researching true AGI: with no loss function, no ground-truth data, and no backpropagation, I use Darwinian evolution, and few-shot autonomous learning ability emerges in the resulting digital life, opening a new route toward true AGI. This paper has been submitted to <strong class="research-key">Nature</strong>.</p>
       </div>
     </article>
