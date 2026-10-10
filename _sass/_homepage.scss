@@ -1553,8 +1553,7 @@ html[data-theme="dark"] .news .news-body span[style*="#b00020"] {
   }
 
   .stat-big {
-    color: #b00020;
-    font-weight: 800;
+    color: #5b2f9e;
     font-size: 1.2rem;
     font-weight: 800;
     line-height: 1.1;
@@ -1674,33 +1673,4 @@ html[data-theme="dark"] .news .news-body span[style*="#b00020"] {
       color: #5b2f9e;
     }
   }
-}
-
-/* Liquid hero background (assets/js/liquid-bg.js) */
-.home-hero {
-  position: relative;
-  isolation: isolate;
-
-  .liquid-bg {
-    position: absolute;
-    inset: 0;
-    z-index: -1;
-    overflow: hidden;
-    pointer-events: none;
-    filter: blur(70px);
-    -webkit-mask-image: radial-gradient(ellipse 80% 85% at 50% 50%, #000 50%, transparent 100%);
-    mask-image: radial-gradient(ellipse 80% 85% at 50% 50%, #000 50%, transparent 100%);
-  }
-
-  .liquid-blob {
-    position: absolute;
-    top: 0;
-    left: 0;
-    border-radius: 50%;
-    will-change: transform;
-  }
-}
-
-html[data-theme="dark"] .home-hero .liquid-bg {
-  opacity: 0.45;
 }

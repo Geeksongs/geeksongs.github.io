@@ -249,7 +249,6 @@ latest_posts:
 </nav>
 
 <script src="{{ '/assets/js/homepage-interactions.js' | relative_url }}?v={{ site.time | date: '%s' }}" defer></script>
-<script src="{{ '/assets/js/liquid-bg.js' | relative_url }}?v={{ site.time | date: '%s' }}" defer></script>
 
 <script>
   document.addEventListener("DOMContentLoaded", function () {
