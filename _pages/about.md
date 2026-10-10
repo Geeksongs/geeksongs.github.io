@@ -32,12 +32,6 @@ latest_posts:
       <span>San Francisco, CA 94105, USA</span>
     </address>
 
-    <div class="homepage-links">
-      <a href="https://github.com/Geeksongs" target="_blank" rel="noopener noreferrer" class="link-btn">
-        <i class="fa-brands fa-github" aria-hidden="true"></i> GitHub
-      </a>
-      <a href="mailto:js6665@columbia.edu" class="link-btn"> <i class="fa-solid fa-envelope" aria-hidden="true"></i> Email </a>
-    </div>
   </div>
 
   <div class="home-intro">
@@ -57,6 +51,13 @@ latest_posts:
       <div class="phd-description">
         I am particularly interested in foundation models, world models, robot learning, AI for science, and True AGI, with a focus on building agents that learn proactively and evolve on their own.
       </div>
+    </div>
+
+    <div class="homepage-links">
+      <a href="https://github.com/Geeksongs" target="_blank" rel="noopener noreferrer" class="link-btn">
+        <i class="fa-brands fa-github" aria-hidden="true"></i> GitHub
+      </a>
+      <a href="mailto:js6665@columbia.edu" class="link-btn"> <i class="fa-solid fa-envelope" aria-hidden="true"></i> Email </a>
     </div>
   </div>
 
@@ -246,6 +247,7 @@ latest_posts:
 </nav>
 
 <script src="{{ '/assets/js/homepage-interactions.js' | relative_url }}?v={{ site.time | date: '%s' }}" defer></script>
+<script src="{{ '/assets/js/liquid-bg.js' | relative_url }}?v={{ site.time | date: '%s' }}" defer></script>
 
 <script>
   document.addEventListener("DOMContentLoaded", function () {
