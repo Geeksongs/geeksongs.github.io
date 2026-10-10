@@ -278,8 +278,13 @@ html[data-theme="dark"] .navbar.navbar-light .site-name {
   h4 {
     margin: 0 0 0.3rem;
     font-size: 1.05rem;
-    font-weight: 600;
+    font-weight: 800;
     line-height: 1.4;
+
+    .award-key {
+      color: #b00020;
+      font-weight: 900;
+    }
   }
 
   p {

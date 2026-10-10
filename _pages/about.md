@@ -160,11 +160,11 @@ latest_posts:
     <h3 id="award-scholarships">Scholarships &amp; Honors</h3>
     <div class="award-card">
       <span class="award-icon"><i class="fa-solid fa-award" aria-hidden="true"></i></span>
-      <div><h4>Silver Reviewer Award, ICML</h4><p>2026</p></div>
+      <div><h4><span class="award-key">Silver Reviewer Award</span>, ICML</h4><p>2026</p></div>
     </div>
     <div class="award-card">
       <span class="award-icon"><i class="fa-solid fa-trophy" aria-hidden="true"></i></span>
-      <div><h4>EMNLP 2026 Oral (Top 1%)</h4><p>Proactive Learning with Lifelong Memory via World Models · 2026</p></div>
+      <div><h4>EMNLP 2026 Oral <span class="award-key">(Top 1%)</span></h4><p>Proactive Learning with Lifelong Memory via World Models · 2026</p></div>
     </div>
     <div class="award-card">
       <span class="award-icon"><i class="fa-solid fa-graduation-cap" aria-hidden="true"></i></span>
@@ -175,11 +175,11 @@ latest_posts:
     <h3 id="award-competitions">Competitions</h3>
     <div class="award-card">
       <span class="award-icon"><i class="fa-solid fa-chart-line" aria-hidden="true"></i></span>
-      <div><h4>CCF Big Data and Computing Intelligence Contest: Top 2%</h4><p>2021</p></div>
+      <div><h4>CCF Big Data and Computing Intelligence Contest: <span class="award-key">Top 2%</span></h4><p>2021</p></div>
     </div>
     <div class="award-card">
       <span class="award-icon"><i class="fa-solid fa-atom" aria-hidden="true"></i></span>
-      <div><h4>National High School Physics Olympiad: National First-Prize (Top 0.01%)</h4><p>2018</p></div>
+      <div><h4>National High School Physics Olympiad: <span class="award-key">National First-Prize (Top 0.01%)</span></h4><p>2018</p></div>
     </div>
   </section>
 </div>
