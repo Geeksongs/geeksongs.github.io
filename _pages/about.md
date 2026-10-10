@@ -35,12 +35,6 @@ latest_posts:
       <span>San Francisco, CA 94105, USA</span>
     </address>
 
-    <div class="topic-chips" aria-label="Research areas">
-      <span class="topic-chip chip-fm"><i class="fa-solid fa-earth-americas" aria-hidden="true"></i> Foundation &amp; World Models</span>
-      <span class="topic-chip chip-robot"><i class="fa-solid fa-robot" aria-hidden="true"></i> Robot Learning</span>
-      <span class="topic-chip chip-sci"><i class="fa-solid fa-flask" aria-hidden="true"></i> AI for Science</span>
-      <span class="topic-chip chip-agi"><i class="fa-solid fa-dna" aria-hidden="true"></i> True AGI</span>
-    </div>
 
     <div class="phd-callout">
       <div class="phd-title">I am actively seeking Ph.D. opportunities for Fall 2027.</div>
