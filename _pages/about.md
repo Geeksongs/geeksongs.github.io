@@ -151,42 +151,6 @@ latest_posts:
 
 </section>
 
-<section class="home-section-card" markdown="1" aria-labelledby="skills">
-
-## Skills {#skills}
-
-<div class="home-skills">
-  <section class="skill-group" aria-labelledby="skill-research">
-    <span class="skill-icon"><i class="fa-solid fa-brain" aria-hidden="true"></i></span>
-    <div>
-      <h3 id="skill-research">Research Areas</h3>
-      <div class="skill-tags">
-        <span>Foundation models</span><span>World models</span><span>Proactive AI</span><span>Vision-language models</span><span>Reinforcement learning</span><span>Robot learning</span><span>Embodied AI</span>
-      </div>
-    </div>
-  </section>
-  <section class="skill-group" aria-labelledby="skill-science">
-    <span class="skill-icon"><i class="fa-solid fa-flask" aria-hidden="true"></i></span>
-    <div>
-      <h3 id="skill-science">AI for Science &amp; True AGI</h3>
-      <div class="skill-tags">
-        <span>AI-driven mathematical discovery</span><span>Number theory</span><span>Evolutionary computation</span><span>Digital life</span><span>Few-shot autonomous learning</span>
-      </div>
-    </div>
-  </section>
-  <section class="skill-group" aria-labelledby="skill-tools">
-    <span class="skill-icon"><i class="fa-solid fa-code" aria-hidden="true"></i></span>
-    <div>
-      <h3 id="skill-tools">Programming</h3>
-      <div class="skill-tags">
-        <span>Python</span><span>PyTorch</span><span>Linux</span><span>Git</span>
-      </div>
-    </div>
-  </section>
-</div>
-
-</section>
-
 <section class="home-section-card" markdown="1" aria-labelledby="honors-awards">
 
 ## Honors & Awards {#honors-awards}
@@ -240,6 +204,60 @@ latest_posts:
 </div>
 
 {% include homepage_impact.liquid %}
+
+</section>
+
+<section class="home-section-card" markdown="1" aria-labelledby="skills">
+
+## Skills {#skills}
+
+<div class="home-skills">
+  <section class="skill-group" aria-labelledby="skill-lang">
+    <span class="skill-icon"><i class="fa-solid fa-code" aria-hidden="true"></i></span>
+    <div>
+      <h3 id="skill-lang">Programming Languages</h3>
+      <div class="skill-tags">
+        <span>Python</span><span>C++</span><span>C</span><span>CUDA</span><span>Bash</span><span>SQL</span><span>Java</span><span>Kotlin</span><span>LaTeX</span>
+      </div>
+    </div>
+  </section>
+  <section class="skill-group" aria-labelledby="skill-dl">
+    <span class="skill-icon"><i class="fa-solid fa-brain" aria-hidden="true"></i></span>
+    <div>
+      <h3 id="skill-dl">Deep Learning &amp; LLM</h3>
+      <div class="skill-tags">
+        <span>PyTorch</span><span>JAX</span><span>TensorFlow</span><span>Hugging Face Transformers</span><span>Diffusers</span><span>DeepSpeed</span><span>FSDP</span><span>vLLM</span><span>PEFT / LoRA</span><span>TRL</span><span>Flash Attention</span><span>Weights &amp; Biases</span>
+      </div>
+    </div>
+  </section>
+  <section class="skill-group" aria-labelledby="skill-robot">
+    <span class="skill-icon"><i class="fa-solid fa-robot" aria-hidden="true"></i></span>
+    <div>
+      <h3 id="skill-robot">Robotics &amp; Simulation</h3>
+      <div class="skill-tags">
+        <span>NVIDIA Isaac Sim</span><span>Isaac Lab</span><span>ManiSkill</span><span>MuJoCo</span><span>robosuite</span><span>RoboCasa</span><span>LIBERO</span><span>PyBullet</span><span>Habitat</span><span>ROS</span><span>Gymnasium</span><span>OpenPI</span><span>LeRobot</span>
+      </div>
+    </div>
+  </section>
+  <section class="skill-group" aria-labelledby="skill-rl">
+    <span class="skill-icon"><i class="fa-solid fa-gamepad" aria-hidden="true"></i></span>
+    <div>
+      <h3 id="skill-rl">Reinforcement Learning</h3>
+      <div class="skill-tags">
+        <span>PPO</span><span>SAC</span><span>Stable-Baselines3</span><span>RLlib</span><span>Offline RL</span><span>Imitation Learning</span><span>Diffusion Policy</span><span>VLA models</span>
+      </div>
+    </div>
+  </section>
+  <section class="skill-group" aria-labelledby="skill-sys">
+    <span class="skill-icon"><i class="fa-solid fa-server" aria-hidden="true"></i></span>
+    <div>
+      <h3 id="skill-sys">Systems &amp; Tools</h3>
+      <div class="skill-tags">
+        <span>Linux</span><span>Git</span><span>Docker</span><span>Slurm</span><span>SSH</span><span>tmux</span><span>Conda</span><span>NumPy</span><span>Pandas</span><span>scikit-learn</span><span>OpenCV</span><span>Matplotlib</span><span>Jekyll</span>
+      </div>
+    </div>
+  </section>
+</div>
 
 </section>
 
