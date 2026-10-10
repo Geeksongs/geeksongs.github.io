@@ -1675,14 +1675,22 @@ html[data-theme="dark"] .news .news-body span[style*="#b00020"] {
     position: absolute;
     inset: 0;
     z-index: -1;
-    width: 100%;
-    height: 100%;
+    overflow: hidden;
     pointer-events: none;
-    -webkit-mask-image: radial-gradient(ellipse 75% 80% at 50% 50%, #000 45%, transparent 100%);
-    mask-image: radial-gradient(ellipse 75% 80% at 50% 50%, #000 45%, transparent 100%);
+    filter: blur(70px);
+    -webkit-mask-image: radial-gradient(ellipse 80% 85% at 50% 50%, #000 50%, transparent 100%);
+    mask-image: radial-gradient(ellipse 80% 85% at 50% 50%, #000 50%, transparent 100%);
+  }
+
+  .liquid-blob {
+    position: absolute;
+    top: 0;
+    left: 0;
+    border-radius: 50%;
+    will-change: transform;
   }
 }
 
 html[data-theme="dark"] .home-hero .liquid-bg {
-  opacity: 0.55;
+  opacity: 0.45;
 }
