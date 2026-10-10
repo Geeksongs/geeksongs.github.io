@@ -23,7 +23,7 @@
 
   const SIM = 128;
   const DYE = 512;
-  const CFG = { pressureIter: 20, pressure: 0.8, velDissipation: 0.2, dyeDissipation: 1.1, curl: 28, radius: 0.22, force: 5200 };
+  const CFG = { pressureIter: 20, pressure: 0.8, velDissipation: 0.2, dyeDissipation: 0.7, curl: 28, radius: 0.32, force: 5200 };
   const PALETTE = [
     [0.55, 0.42, 0.95],
     [0.86, 0.5, 0.92],
@@ -101,12 +101,30 @@
       }`,
     clear: `uniform sampler2D uTexture; uniform float value;
       void main() { o = value * texture(uTexture, vUv); }`,
-    display: `uniform sampler2D uDye;
+    display: `uniform sampler2D uDye; uniform float uTime; uniform vec2 uMouse; uniform float uAspect;
+      vec3 glow(vec2 uv, vec2 c, float r) {
+        vec2 q = uv - c; q.x *= uAspect;
+        return vec3(exp(-dot(q, q) / r));
+      }
       void main() {
+        // ambient lilac field: three slow blobs that lean toward the pointer
+        float t = uTime;
+        vec2 p1 = vec2(0.28, 0.35) + 0.10 * vec2(sin(t * 0.31), cos(t * 0.23));
+        vec2 p2 = vec2(0.72, 0.62) + 0.12 * vec2(cos(t * 0.27 + 1.3), sin(t * 0.21 + 0.4));
+        vec2 p3 = vec2(0.55, 0.22) + 0.09 * vec2(sin(t * 0.19 + 2.1), cos(t * 0.33 + 0.9));
+        p1 += (uMouse - p1) * 0.30; p2 += (uMouse - p2) * 0.18; p3 += (uMouse - p3) * 0.42;
+        float g1 = glow(vUv, p1, 0.16).x, g2 = glow(vUv, p2, 0.20).x, g3 = glow(vUv, p3, 0.10).x;
+        float gs = g1 + g2 + g3;
+        vec3 gc = (vec3(0.73, 0.64, 0.94) * g1 + vec3(0.90, 0.72, 0.92) * g2 + vec3(0.66, 0.77, 0.96) * g3) / max(gs, 0.001);
+        float ga = clamp(gs, 0.0, 1.0) * 0.55;
+
         vec3 d = max(texture(uDye, vUv).rgb, 0.0);
-        float a = clamp(max(d.r, max(d.g, d.b)), 0.0, 1.0);
-        a = smoothstep(0.0, 1.0, a) * 0.85;
-        vec3 c = d / max(max(d.r, max(d.g, d.b)), 0.001);
+        float m = max(d.r, max(d.g, d.b));
+        float da = smoothstep(0.0, 0.8, m) * 0.6;
+        vec3 dc = d / max(m, 0.001);
+
+        float a = da + ga * (1.0 - da);
+        vec3 c = (dc * da + gc * ga * (1.0 - da)) / max(a, 0.001);
         o = vec4(c, a);
       }`,
   };
@@ -305,18 +323,21 @@
   };
 
   const render = () => {
-    gl.enable(gl.BLEND);
-    gl.blendFunc(gl.SRC_ALPHA, gl.ONE_MINUS_SRC_ALPHA);
     const u = use("display");
     setTexel(u, dye);
     bindTex(u.uDye, dye.read.tex, 0);
+    gl.uniform1f(u.uTime, performance.now() / 1000);
+    gl.uniform1f(u.uAspect, canvas.width / canvas.height);
+    gl.uniform2f(u.uMouse, mouse.sx, mouse.sy);
     gl.clearColor(0, 0, 0, 0);
     gl.bindFramebuffer(gl.FRAMEBUFFER, null);
     gl.viewport(0, 0, canvas.width, canvas.height);
     gl.clear(gl.COLOR_BUFFER_BIT);
     gl.drawArrays(gl.TRIANGLE_FAN, 0, 4);
-    gl.disable(gl.BLEND);
   };
+
+  // smoothed pointer position (0..1, y up) used by the ambient glow field
+  const mouse = { x: 0.5, y: 0.5, sx: 0.5, sy: 0.5 };
 
   // pointer input: stir the fluid wherever the cursor moves over the hero
   let last = null;
@@ -337,10 +358,12 @@
         const a = PALETTE[Math.floor(hue)];
         const b = PALETTE[(Math.floor(hue) + 1) % PALETTE.length];
         const t = hue % 1;
-        const c = a.map((v, i) => (v + (b[i] - v) * t) * 0.55);
+        const c = a.map((v, i) => (v + (b[i] - v) * t) * 1.1);
         splat(x, y, dx, dy, c);
       }
     }
+    mouse.x = x;
+    mouse.y = y;
     last = { x, y };
   };
   window.addEventListener("pointermove", onMove, { passive: true });
@@ -369,6 +392,8 @@
     }
     const dt = Math.min((now - prev) / 1000, 0.0166);
     prev = now;
+    mouse.sx += (mouse.x - mouse.sx) * 0.05;
+    mouse.sy += (mouse.y - mouse.sy) * 0.05;
     idle(now);
     step(dt);
     render();
