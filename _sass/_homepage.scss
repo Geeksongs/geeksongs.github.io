@@ -978,8 +978,19 @@ html[data-theme="dark"] .home-impact {
     }
 
     .publication-content .abstract.hidden {
+      display: grid;
+      grid-template-rows: 0fr;
+      max-height: none;
       border: 0;
       text-align: left;
+      transition:
+        grid-template-rows 0.35s ease,
+        margin-top 0.35s ease;
+
+      .abstract-body {
+        min-height: 0;
+        overflow: hidden;
+      }
 
       p {
         margin: 1rem;
@@ -993,11 +1004,16 @@ html[data-theme="dark"] .home-impact {
       }
 
       &.open {
+        grid-template-rows: 1fr;
         margin-top: 0.75rem;
         max-height: none;
         border: 0;
         border-radius: 8px;
         background: var(--global-code-bg-color);
+      }
+
+      @media (prefers-reduced-motion: reduce) {
+        transition: none;
       }
     }
   }

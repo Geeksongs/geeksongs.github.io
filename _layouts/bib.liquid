@@ -454,7 +454,9 @@
           {% capture emphasis %}<strong>{{ highlight | escape }}</strong>{% endcapture %}
           {% assign abstract_text = abstract_text | replace: placeholder, emphasis %}
         {% endfor %}
-        <p>{{ abstract_text }}</p>
+        <div class="abstract-body">
+          <p>{{ abstract_text }}</p>
+        </div>
       </div>
     {% endif %}
 
