@@ -1,6 +1,9 @@
 ---
 ---
-<div class="row publication-entry" data-publication-category="{{ entry.category | escape }}">
+<div
+  class="row publication-entry{% if entry.preview_video_layout %} publication-entry-{{ entry.preview_video_layout | escape }}{% endif %}"
+  data-publication-category="{{ entry.category | escape }}"
+>
   {% if site.enable_publication_thumbnails %}
     <div class="col col-sm-2 abbr publication-figure">
       {%- if entry.abbr -%}
