@@ -44,12 +44,12 @@
             controls
             preload="metadata"
             poster="{{ entry.preview | prepend: '/assets/img/publication_preview/' | relative_url }}"
-            aria-label="AsyncRoboSim real-robot demonstrations: Can task on top and Square task below"
+            aria-label="{{ entry.title | escape }}: {{ entry.preview_video_caption | escape }}"
           >
             <source src="{{ entry.preview_video | prepend: '/assets/video/' | relative_url }}" type="video/mp4">
             <a href="{{ entry.preview_video | prepend: '/assets/video/' | relative_url }}">Watch the real-robot demonstrations</a>
           </video>
-          <figcaption class="publication-video-caption">Real robots: Can (top), Square (bottom)</figcaption>
+          <figcaption class="publication-video-caption">{{ entry.preview_video_caption | escape }}</figcaption>
         </figure>
       {% elsif entry.preview %}
         {% if entry.preview contains '://' %}
