@@ -916,16 +916,11 @@ html[data-theme="dark"] .home-impact {
     }
 
     .publication-figure .publication-video {
+      width: auto;
+      max-width: 100%;
       height: auto;
-      max-height: none;
-    }
-
-    .publication-video-caption {
-      margin-top: 0.4rem;
-      color: var(--publication-author-color);
-      font-size: 0.8rem;
-      line-height: 1.4;
-      text-align: center;
+      max-height: 190px;
+      margin: 0 auto;
     }
 
     .title {
