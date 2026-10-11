@@ -33,7 +33,25 @@
           </div>
         {% endif %}
       {% endunless %}
-      {% if entry.preview %}
+      {% if entry.preview_video %}
+        <figure>
+          <video
+            class="preview publication-video"
+            autoplay
+            loop
+            muted
+            playsinline
+            controls
+            preload="metadata"
+            poster="{{ entry.preview | prepend: '/assets/img/publication_preview/' | relative_url }}"
+            aria-label="AsyncRoboSim real-robot demonstrations: Can task on top and Square task below"
+          >
+            <source src="{{ entry.preview_video | prepend: '/assets/video/' | relative_url }}" type="video/mp4">
+            <a href="{{ entry.preview_video | prepend: '/assets/video/' | relative_url }}">Watch the real-robot demonstrations</a>
+          </video>
+          <figcaption class="publication-video-caption">Real robots: Can (top), Square (bottom)</figcaption>
+        </figure>
+      {% elsif entry.preview %}
         {% if entry.preview contains '://' %}
           <img class="preview z-depth-1 rounded" src="{{ entry.preview }}">
         {% else %}
