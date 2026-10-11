@@ -91,7 +91,7 @@ latest_posts:
       <div class="stat-panel"><i class="fa-solid fa-dna stat-icon" aria-hidden="true"></i><span class="stat-big">AGI</span></div>
       <div class="card-body">
         <div class="card-head"><strong class="research-key area-label">A Brand-New Paradigm of AI Learning</strong></div>
-        <p>I am researching true AGI: with no loss function, no ground-truth data, and no backpropagation, I use Darwinian evolution, and few-shot autonomous learning ability emerges in the resulting digital life, opening a new route toward true AGI. This paper has been submitted to <strong class="research-key">Nature</strong>.</p>
+        <p>I am researching true AGI: with no loss function, no ground-truth data, and no backpropagation, I use Darwinian evolution. We have observed the emergence of few-shot autonomous learning ability in the resulting digital life, opening a new route toward true AGI. This paper has been submitted to <strong class="research-key">Nature</strong>.</p>
       </div>
     </article>
 
