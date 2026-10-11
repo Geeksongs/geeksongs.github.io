@@ -948,7 +948,11 @@ html[data-theme="dark"] .home-impact {
 
     .periodical.publication-distinction {
       color: #e60023;
-      font-weight: 800;
+      font-weight: 900;
+
+      strong {
+        font-weight: inherit;
+      }
     }
 
     .links {
