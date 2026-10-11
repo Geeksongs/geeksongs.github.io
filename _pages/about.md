@@ -42,7 +42,7 @@ latest_posts:
     </div>
 
     <p>
-      I graduated with a master's degree from <a href="https://www.columbia.edu/">Columbia University</a>. My research focuses on
+      I graduated with a master's degree from <a href="https://www.columbia.edu/">Columbia University</a> in 2026. My research focuses on
       <strong class="research-key">foundation models, world models, robot learning, and AI for science</strong>.
     </p>
 
