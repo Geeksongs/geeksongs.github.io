@@ -75,7 +75,7 @@ latest_posts:
       <div class="stat-panel"><i class="fa-solid fa-robot stat-icon" aria-hidden="true"></i><span class="stat-big">Robot Learning</span></div>
       <div class="card-body">
         <div class="card-head"><strong class="research-key area-label">#1 Performance on LIBERO-Pro &amp; RoboCasa365</strong></div>
-        <p>I developed a robot learning framework that evolves itself and achieves <strong class="research-key">#1 performance</strong> on both <strong>LIBERO-Pro</strong> and <strong>RoboCasa365</strong>, surpassing results from the robotics company Physical Intelligence on these two challenging benchmarks for robot generalization.</p>
+        <p>I developed a robot learning framework that evolves itself and achieves <strong class="research-key">#1 performance</strong> on both <strong>LIBERO-Pro</strong> and <strong>RoboCasa365</strong>, surpassing results from the robotics company Physical Intelligence.</p>
       </div>
     </article>
 
