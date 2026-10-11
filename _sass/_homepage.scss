@@ -964,7 +964,8 @@ html[data-theme="dark"] .home-impact {
       gap: 0.8rem;
       margin-top: 0.5rem;
 
-      a.btn {
+      a.btn,
+      button.btn {
         padding: 0;
         margin: 0;
         border: 0;
@@ -980,6 +981,24 @@ html[data-theme="dark"] .home-impact {
           color: var(--publication-link-color);
           text-decoration: underline;
         }
+      }
+    }
+
+    .publication-content .abstract.hidden {
+      border: 0;
+      text-align: left;
+
+      p {
+        margin: 1rem;
+        font-size: 0.95rem;
+        line-height: 1.7;
+      }
+
+      &.open {
+        margin-top: 0.75rem;
+        border: 0;
+        border-radius: 8px;
+        background: var(--global-code-bg-color);
       }
     }
   }

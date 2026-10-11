@@ -220,7 +220,15 @@
         </a>
       {% endif %}
       {% if entry.abstract %}
-        <a class="abstract btn btn-sm z-depth-0" role="button">Abs</a>
+        <button
+          type="button"
+          class="abstract btn btn-sm z-depth-0"
+          aria-expanded="false"
+          aria-controls="abstract-{{ entry.key }}"
+          aria-label="Abstract for {{ entry.title | escape }}"
+        >
+          Abstract
+        </button>
       {% endif %}
       {% if entry.doi %}
         <a href="https://doi.org/{{ entry.doi }}" class="btn btn-sm z-depth-0" role="button" target="_blank" rel="noopener noreferrer">DOI</a>
@@ -433,7 +441,7 @@
 
     {% if entry.abstract %}
       <!-- Hidden abstract block -->
-      <div class="abstract hidden">
+      <div id="abstract-{{ entry.key }}" class="abstract hidden" aria-hidden="true">
         <p>{{ entry.abstract }}</p>
       </div>
     {% endif %}
