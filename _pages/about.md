@@ -106,7 +106,7 @@ latest_posts:
     </p>
     <div class="affil-logos" aria-label="Research collaborations">
       <a href="https://www.columbia.edu/" target="_blank" rel="noopener noreferrer"><img src="{{ '/assets/img/columbia-university-vector-logo-seeklogo/columbia-university-seeklogo.png' | relative_url }}" alt="Columbia University"></a>
-      <a href="https://www.gatech.edu/" target="_blank" rel="noopener noreferrer"><img src="{{ '/assets/img/gatech-logo.png' | relative_url }}" alt="Georgia Tech"></a>
+      <a href="https://www.gatech.edu/" target="_blank" rel="noopener noreferrer"><img src="{{ '/assets/img/gatech-logo.svg' | relative_url }}" alt="Georgia Tech"></a>
       <a href="https://www.berkeley.edu/" target="_blank" rel="noopener noreferrer"><img src="{{ '/assets/img/berkeley-university-vector-logo-seeklogo/berkeley-university-seeklogo.png' | relative_url }}" alt="UC Berkeley"></a>
       <a href="https://www.nvidia.com/" target="_blank" rel="noopener noreferrer"><img src="{{ '/assets/img/nvidia-logo-png_seeklogo-101614.png' | relative_url }}" alt="NVIDIA"></a>
     </div>
