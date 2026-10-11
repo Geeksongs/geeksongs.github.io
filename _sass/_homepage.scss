@@ -986,6 +986,10 @@ html[data-theme="dark"] .home-impact {
         color: var(--global-text-color);
         font-size: 1.25rem;
         line-height: 1.8;
+
+        strong {
+          font-weight: 700;
+        }
       }
 
       &.open {

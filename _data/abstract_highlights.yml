@@ -1,0 +1,52 @@
+song2026proactive:
+  - ProactiveEngine
+  - NeuroAuroraBench
+  - 83.3%
+  - 7.8×
+  - 100×
+  - 24.8k
+song2026reasoning:
+  - CAPTCHA-X
+  - 21.9 percent
+  - 83.9 percent
+morgan2026colosseum:
+  - Colosseum V2
+  - 28 tasks
+  - 13 task categories
+  - two robot morphologies
+Ancuti_2024_CVPR:
+  - NTIRE 2024 Challenge on Dense and Non-Homogeneous Dehazing
+  - DNH-HAZE
+  - 50 pairs
+  - 374 participants
+  - 16 teams
+song2026asyncrobosim:
+  - AsyncRoboSim
+song2027embodiedrsi:
+  - EmbodiedRSI
+  - Fast-Slow Dual-System Architecture
+  - Hypothesis Graph
+  - Value-of-Information Experiment Selection
+  - Code-Skill Co-Evolution
+  - Hierarchical Memory
+  - Reward-Grounded Memory Learning
+  - 77.0%
+  - 71.3%
+  - 40.1%
+  - 86.8%
+song2027dreamevolve:
+  - DreamEvolveBench
+  - DreamEvolve
+  - Joint-Attention-of-Mixed-Experts
+  - Latent Progress Reward Optimization
+  - 10.1%
+  - 61.7%
+song2027footballrl:
+  - CupArenaBench
+  - Forecast Harness
+  - Football-RL
+  - 103 matches
+  - 10 frontier LLMs
+yang2026vrmdiff:
+  - Latent-Constructive loss
+  - 10,000 videos

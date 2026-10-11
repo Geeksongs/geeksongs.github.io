@@ -442,7 +442,19 @@
     {% if entry.abstract %}
       <!-- Hidden abstract block -->
       <div id="abstract-{{ entry.key }}" class="abstract hidden" aria-hidden="true">
-        <p>{{ entry.abstract }}</p>
+        {% assign abstract_text = entry.abstract | escape %}
+        {% assign abstract_highlights = site.data.abstract_highlights[entry.key] %}
+        {% for highlight in abstract_highlights %}
+          {% assign highlight_text = highlight | escape %}
+          {% assign placeholder = '__ABSTRACT_HIGHLIGHT_' | append: forloop.index | append: '__' %}
+          {% assign abstract_text = abstract_text | replace: highlight_text, placeholder %}
+        {% endfor %}
+        {% for highlight in abstract_highlights %}
+          {% assign placeholder = '__ABSTRACT_HIGHLIGHT_' | append: forloop.index | append: '__' %}
+          {% capture emphasis %}<strong>{{ highlight | escape }}</strong>{% endcapture %}
+          {% assign abstract_text = abstract_text | replace: placeholder, emphasis %}
+        {% endfor %}
+        <p>{{ abstract_text }}</p>
       </div>
     {% endif %}
 
