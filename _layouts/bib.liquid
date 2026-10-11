@@ -46,10 +46,10 @@
             playsinline
             controls
             preload="auto"
-            poster="{{ entry.preview | prepend: '/assets/img/publication_preview/' | relative_url }}"
+            poster="{{ entry.preview | prepend: '/assets/img/publication_preview/' | relative_url }}?v={{ site.time | date: '%s' }}"
             aria-label="{{ entry.title | escape }}: {{ entry.preview_video_caption | escape }}"
           >
-            <source src="{{ entry.preview_video | prepend: '/assets/video/' | relative_url }}" type="video/mp4">
+            <source src="{{ entry.preview_video | prepend: '/assets/video/' | relative_url }}?v={{ site.time | date: '%s' }}" type="video/mp4">
             <a href="{{ entry.preview_video | prepend: '/assets/video/' | relative_url }}">Watch the real-robot demonstrations</a>
           </video>
         </figure>

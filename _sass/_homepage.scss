@@ -887,10 +887,6 @@ html[data-theme="dark"] .home-impact {
       margin: 0;
     }
 
-    .publication-entry-stacked {
-      grid-template-columns: minmax(0, 170px) minmax(0, 1fr);
-    }
-
     .publication-figure,
     .publication-content {
       width: 100%;
@@ -926,6 +922,11 @@ html[data-theme="dark"] .home-impact {
       max-height: 190px;
       margin: 0 auto;
       border-radius: 8px !important;
+    }
+
+    .publication-entry-stacked .publication-video {
+      width: 100%;
+      max-height: none;
     }
 
     .title {
