@@ -101,7 +101,7 @@ latest_posts:
     <p>
       I conducted research under the guidance of <a href="https://jessethomason.com/">Prof. Jesse Thomason</a> at Georgia Tech, and
       <a href="https://www.cs.columbia.edu/~junfeng/">Prof. Junfeng Yang</a> and <a href="https://lsl.zone/">Prof. Shilong Liu</a> at Columbia. I have also
-      conducted robot learning research with Research Scientists <a href="https://siddancha.github.io/">Siddharth Ancha</a> at UC Berkeley and
+      conducted robot learning research with <a href="https://siddancha.github.io/">Siddharth Ancha</a> at UC Berkeley and
       <a href="https://ai.stanford.edu/~amandlek/">Ajay Mandlekar</a> at NVIDIA.
     </p>
     <div class="affil-logos" aria-label="Research collaborations">
