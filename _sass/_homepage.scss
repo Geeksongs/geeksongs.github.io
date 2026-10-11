@@ -926,7 +926,9 @@ html[data-theme="dark"] .home-impact {
 
     .publication-entry-stacked .publication-video {
       width: 100%;
-      max-height: none;
+      aspect-ratio: 3 / 2;
+      max-height: 190px;
+      object-fit: fill;
     }
 
     .title {
