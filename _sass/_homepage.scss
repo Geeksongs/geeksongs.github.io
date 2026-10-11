@@ -953,6 +953,11 @@ html[data-theme="dark"] .home-impact {
       }
     }
 
+    .periodical.publication-distinction {
+      color: #e60023;
+      font-weight: 800;
+    }
+
     .links {
       display: flex;
       flex-wrap: wrap;
@@ -985,6 +990,10 @@ html[data-theme="dark"] .publications {
   --publication-title-color: #edf1f8;
   --publication-author-color: #abb7ca;
   --publication-border-color: #3b4352;
+
+  .periodical.publication-distinction {
+    color: #ff4d60;
+  }
 }
 
 @media (max-width: 640px) {
