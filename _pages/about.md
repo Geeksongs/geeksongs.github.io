@@ -49,7 +49,7 @@ latest_posts:
     <div class="phd-callout">
       <div class="phd-title">I am actively seeking Ph.D. opportunities for Fall 2027.</div>
       <div class="phd-description">
-        I am particularly interested in foundation models, world models, robot learning, AI for science, and True AGI, with a focus on building agents that learn proactively and evolve on their own.
+        Fall 2027 Ph.D. applicant in search of a great advisor kind enough to take me in. In return, I promise hard work, big ideas, and the courage to pursue the impossible.
       </div>
     </div>
 
