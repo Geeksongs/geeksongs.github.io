@@ -420,24 +420,17 @@ html[data-theme="dark"] .navbar.navbar-light .site-name {
     img {
       height: auto;
     }
-
-    > span {
-      position: relative;
-      margin-right: 0 !important;
-    }
-
-    > span > img:first-child {
-      filter: url("#visitor-map-pastel");
-    }
-
-    > span > span img {
-      // Override the widget's inline filter while retaining a white marker outline.
-      filter: url("#visitor-map-marker") drop-shadow(0 0 1px #fff) !important;
-    }
   }
 
-  #mapmyvisitors-widget {
+  .visitor-map-widget > a {
+    display: block;
     max-width: 100%;
+    margin: 0 auto;
+
+    img {
+      display: block;
+      width: 100%;
+    }
   }
 
   .visitor-map-frame {
@@ -1441,25 +1434,9 @@ html:not([data-theme="dark"]) body.home-page #navbar {
     padding-top: 0.75rem;
     border-top: 0;
 
-    > span {
-      display: block !important;
-      position: relative !important;
-      width: 645px !important;
-      max-width: 100%;
-      margin: 0 auto !important;
-    }
-
-    > span > img:first-child {
-      position: static !important;
-      display: block;
-      width: 100%;
-      height: auto;
-    }
-
-    > span > span {
-      top: 0 !important;
-      left: 0 !important;
-    }
+    width: 650px;
+    max-width: 100%;
+    margin: 0 auto;
   }
 
   .impact-action {
