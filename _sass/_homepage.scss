@@ -877,7 +877,7 @@ html[data-theme="dark"] .home-impact {
     border: 0;
     color: var(--publication-title-color);
     text-align: left;
-    font-size: 1.35rem;
+    font-size: 1.5rem;
     font-weight: 700;
   }
 
@@ -924,7 +924,7 @@ html[data-theme="dark"] .home-impact {
 
     .title {
       color: var(--publication-title-color);
-      font-size: 1.15rem;
+      font-size: 1.35rem;
       font-weight: 700;
       line-height: 1.45;
     }
@@ -932,7 +932,7 @@ html[data-theme="dark"] .home-impact {
     .author {
       margin: 0.6rem 0;
       color: var(--publication-author-color);
-      font-size: 1rem;
+      font-size: 1.125rem;
       line-height: 1.6;
 
       a {
@@ -943,9 +943,9 @@ html[data-theme="dark"] .home-impact {
 
     .periodical {
       color: var(--publication-link-color);
-      font-size: 1rem;
+      font-size: 1.125rem;
       font-weight: 600;
-      line-height: 1.5;
+      line-height: 1.6;
 
       em {
         color: inherit;
@@ -971,7 +971,7 @@ html[data-theme="dark"] .home-impact {
         border: 0;
         color: var(--publication-link-color);
         background: transparent;
-        font-size: 0.95rem;
+        font-size: 1.125rem;
         font-weight: 600;
         text-transform: none;
         box-shadow: none;
@@ -990,12 +990,14 @@ html[data-theme="dark"] .home-impact {
 
       p {
         margin: 1rem;
-        font-size: 0.95rem;
-        line-height: 1.7;
+        color: var(--global-text-color);
+        font-size: 1.25rem;
+        line-height: 1.8;
       }
 
       &.open {
         margin-top: 0.75rem;
+        max-height: none;
         border: 0;
         border-radius: 8px;
         background: var(--global-code-bg-color);
@@ -1208,7 +1210,7 @@ html[data-theme="dark"] .publications {
     background: color-mix(in srgb, var(--global-text-color) 4%, var(--global-bg-color));
     color: var(--global-text-color);
     font: inherit;
-    font-size: 0.95rem;
+    font-size: 1.125rem;
     line-height: 1.4;
     cursor: pointer;
     transition:
