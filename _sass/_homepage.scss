@@ -963,8 +963,15 @@ html[data-theme="dark"] .home-impact {
     }
 
     .periodical.publication-distinction {
-      color: #e60023;
+      display: inline-flex;
+      align-items: center;
+      margin-top: 0.5rem;
+      padding: 0.2rem 0.65rem;
+      border-radius: 5px;
+      color: #fff;
+      background: #d90026;
       font-weight: 900;
+      line-height: 1.5;
 
       strong {
         font-weight: inherit;
@@ -1046,7 +1053,8 @@ html[data-theme="dark"] .publications {
   --publication-border-color: #3b4352;
 
   .periodical.publication-distinction {
-    color: #ff4d60;
+    color: #fff;
+    background: #d90026;
   }
 }
 
