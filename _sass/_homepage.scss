@@ -1452,6 +1452,11 @@ html:not([data-theme="dark"]) body.home-page #navbar {
 
   .news-body {
     line-height: 1.6;
+
+    .news-distinction {
+      color: #e60023;
+      font-weight: 900;
+    }
   }
 }
 
@@ -1496,6 +1501,10 @@ html:not([data-theme="dark"]) body.home-page #navbar {
 
 html[data-theme="dark"] .news .news-body span[style*="#b00020"] {
   color: #ff6b81 !important;
+}
+
+html[data-theme="dark"] .news .news-body .news-distinction {
+  color: #ff4d60;
 }
 
 .home-intro strong:not(.research-key),

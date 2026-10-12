@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-<strong style="font-weight: 700;">ProactiveEngine</strong> was accepted to <strong style="font-weight: 700;">EMNLP 2026</strong> as an Oral (Top 1%)!
+<strong style="font-weight: 700;">ProactiveEngine</strong> was accepted to <strong style="font-weight: 700;">EMNLP 2026</strong> as an <strong class="news-distinction">Oral (Top 1%)</strong>!
