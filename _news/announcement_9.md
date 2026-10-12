@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper, “Colosseum V2: Benchmarking Generalization for Vision Language Action Models,” has been accepted to <span style="color: #b00020; font-weight: 700;">IEEE Robotics and Automation Letters (RA-L)</span> and presented at <span style="color: #b00020; font-weight: 700;">ICRA 2026</span>! :robot: :tada:
+<strong style="font-weight: 700;">Colosseum V2</strong> was accepted to <strong style="font-weight: 700;">RA-L 2026</strong>!
