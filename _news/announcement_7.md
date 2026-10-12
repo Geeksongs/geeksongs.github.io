@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I have been invited to give a talk by <span style="color: #b00020; font-weight: 700;">Beijing Academy of Artificial Intelligence (BAAI)</span>! :tada:
+I have been invited to give a talk by <strong style="font-weight: 700;">Beijing Academy of Artificial Intelligence (BAAI)</strong>! :tada:

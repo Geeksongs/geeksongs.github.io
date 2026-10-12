@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-My newly developed Embodied Learning method achieves <span style="color: #b00020; font-weight: 700;">SOTA</span> performance on <span style="color: #b00020; font-weight: 700;">RoboCasa-365</span> / <span style="color: #b00020; font-weight: 700;">LIBERO-Pro</span>, surpassing the <span style="color: #b00020; font-weight: 700;">Xiaomi</span> team and <span style="color: #b00020; font-weight: 700;">Physical Intelligence</span>! :robot: :tada:
+My newly developed Embodied Learning method achieves <strong style="font-weight: 700;">SOTA</strong> performance on <strong style="font-weight: 700;">RoboCasa-365</strong> / <strong style="font-weight: 700;">LIBERO-Pro</strong>, surpassing the <strong style="font-weight: 700;">Xiaomi</strong> team and <strong style="font-weight: 700;">Physical Intelligence</strong>! :robot: :tada:

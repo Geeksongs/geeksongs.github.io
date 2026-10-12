@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I have been invited to give a talk by <span style="color: #b00020; font-weight: 700;">Qingke AI</span>! :tada:
+I have been invited to give a talk by <strong style="font-weight: 700;">Qingke AI</strong>! :tada:

@@ -1453,6 +1453,11 @@ html:not([data-theme="dark"]) body.home-page #navbar {
   .news-body {
     line-height: 1.6;
 
+    strong {
+      color: var(--global-text-color);
+      font-weight: 700;
+    }
+
     .news-distinction {
       color: #e60023;
       font-weight: 900;
@@ -1499,10 +1504,6 @@ html:not([data-theme="dark"]) body.home-page #navbar {
   }
 }
 
-html[data-theme="dark"] .news .news-body span[style*="#b00020"] {
-  color: #ff6b81 !important;
-}
-
 html[data-theme="dark"] .news .news-body .news-distinction {
   color: #ff4d60;
 }
@@ -1514,10 +1515,6 @@ html[data-theme="dark"] .news .news-body .news-distinction {
 
 .research-experience .strong-heavy {
   font-weight: 900;
-}
-
-.news .news-body span[style*="#b00020"] {
-  font-weight: 700 !important;
 }
 
 .home-intro .research-key.area-label,
