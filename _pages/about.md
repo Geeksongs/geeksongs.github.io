@@ -44,12 +44,13 @@ latest_posts:
     <p>
       I graduated with a master's degree from <a href="https://www.columbia.edu/">Columbia University</a> in 2026. My research focuses on
       <strong class="research-key">foundation models, world models, robot learning, and AI for science</strong>.
+      My research has been covered by <em>DeepBlue Embodied AI</em> and <em>Embodied AI Heart</em>.
     </p>
 
     <div class="phd-callout">
       <div class="phd-title">I am actively seeking Ph.D. opportunities for Fall 2027.</div>
       <div class="phd-description">
-        Fall 2027 Ph.D. applicant in search of a great advisor kind enough to take me in. In return, I promise hard work, big ideas, and the courage to pursue the impossible.
+        I am in search of a great advisor kind enough to take me in. In return, I promise hard work, big ideas, and a few papers worth being proud of.
       </div>
     </div>
 
