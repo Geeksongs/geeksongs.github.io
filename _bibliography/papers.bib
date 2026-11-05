@@ -63,11 +63,11 @@
 
 @article{song2026asyncrobosim,
   category={under-review},
-  abbr={ICRA},
+  abbr={Under review},
   title={Simulation for Evaluating Robot Policies Should Be Asynchronous and Real-Time},
   abstract={Simulation is an indispensable tool for evaluating robot algorithms in a safe and scalable manner. However, current simulation benchmarks introduce an artificial sim-to-real gap by running robot policies synchronously i.e., pausing the simulation to let the policy “think” for as long as it needs before executing actions. But real world physics does not wait for policy inference. Synchronous evaluation provides an unfair advantage to heavyweight policies with large backbones or iterative denoising that may be performant, but are too slow in the real world. We introduce AsyncRoboSim : a protocol to make any robotic simulation benchmark asynchronous by running the simulator and policy in parallel threads. The simulator runs in real time and communicates with the policy via shared inter-process queues for observations and actions. Importantly, the simulation rate is decoupled from the speed at which the policy consumes observations and produces actions. We instantiate our approach in robosuite , the underlying simulation framework for many robotic benchmarks that can automatically inherit our asynchronous implementation. We show that the performance of standard manipulation tasks in AsyncRoboSim is significantly more correlated with real-world performance than conventional synchronous simulation. Realtime, asynchronous simulation naturally reflects inference latency in task performance metrics and also aids debugging.},
   author={Song, Python and Oh, Hyeonho and Singh, Ishika and Thomason, Jesse and Mandlekar, Ajay and Ancha, Siddharth},
-  journal={Submitted to IEEE International Conference on Robotics and Automation (ICRA 2027), under review},
+  journal={Under review},
   year={2026},
   preview={asyncrobosim-real-world.jpg},
   preview_video={asyncrobosim-real-world.mp4},
